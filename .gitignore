@@ -114,6 +114,10 @@ venv.bak/
 [Tt]cl
 pyvenv.cfg
 pip-selfcheck.json
+Include
+Lib
+Scripts
+tcl
 
 ### Windows ###
 # Windows thumbnail cache files
