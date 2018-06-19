@@ -1,0 +1,1046 @@
+1. A  development of a cancer information system by using information retrieval techniques / Tan Chee Ming.- Details in Pendeta Discovery
+2. 2D Arbitrary Lagrangian-Eulerian (ALE) model of blood flow in the left ventricle of the heart / Zati Hakim Azizul Hasan.- Details in Pendeta Discovery
+3. 3-D bio-modeling of the human femur - issues, problems and algorithmic solutions / Somasundaram Nagappan.- Details in Pendeta Discovery
+4. 3D-sign : a computer-aided learning package for Malaysian Sign Language developed using 3D computer graphics and animation / Yong Yik Loong.- Details in Pendeta Discovery
+5. Academic libraries readiness for digital preservation of theses and dissertation / Shaizimah bt. Badzri.- Details in Pendeta Discovery
+6. Academic streaming for secondary schools in Malaysia using a twostep clustering technique / Ely Salwana binti Mat Surin.- Details in Pendeta Discovery
+7. Academic usage of electronic journals focusing on EJUM (Electronic Journal of University of Malaya) / Huzaimah Abdul Rani.- Details in Pendeta Discovery
+8. Accessibility and usability study of electronic learning systems / Mian Muhammad Arif.- Details in Pendeta Discovery
+9. ACIS : a tool for asynchronous collaborative information sharing / Hadzariah Ismail.- Details in Pendeta Discovery
+10. An acoustic speech engine based on triphones for Arabic speech recognition using Hidden Markov model toolkit / Bassam Ali Qasem Al-Qatab.- Details in Pendeta Discovery
+11. Acquiring development work-products for object-oriented application development / Faridah Hani Mohamed Salleh.- Details in Pendeta Discovery
+12. Active queue management for assured forwarding traffic in differentiated services network / Ng Eng Seong.- Details in Pendeta Discovery
+13. Adapting and delivering web content based on user connection speed / Reza Rostami Namin.- Details in Pendeta Discovery
+14. Adaptive 3D multimedia application for learning science subject : earth and the universe / Mazmeen binti Mohd Kamil.- Details in Pendeta Discovery
+15. An adaptive advisory speed limit system for intelligent transportation / Ali Jalooli- Details in Pendeta Discovery
+16. An adaptive density-based method for clustering evolving data streams / Amineh Amini- Details in Pendeta Discovery
+17. Adaptive differential evolution algorithm with fitness based selection of parameters and mutation strategies / Rawaa Dawoud Hassan Al-Dabbagh- Details in Pendeta Discovery
+18. An adaptive genetic algorithm for solving the examination timetabling problem / Hassan Awad Al-Sukhni.- Details in Pendeta Discovery
+19. An adaptive learning Tele-text chatterbot / Ram Gopal Raj.- Details in Pendeta Discovery
+20. Adaptive low power error control for wireless links / Abdullah b. Muhammed.- Details in Pendeta Discovery
+21. Adaptive multi learning style system for e-learning / Hanan Ettaher Dagez.- Details in Pendeta Discovery
+22. An adaptive QoS scheduling algorithm in service oriented grid and cloud environment / Ang Tan Fong.- Details in Pendeta Discovery
+23. Adaptive traffic signal controlling system using vehicular communication / Erfan Shaghaghi- Details in Pendeta Discovery
+24. Adaptive web based module for learning unified modelling language / Noor Hasrina Bakar.- Details in Pendeta Discovery
+25. Adaptive website for FCSIT postgraduate programs / Zuraidah Sanusi.- Details in Pendeta Discovery
+26. Adding an emotions filter to Malay text-to-speech system / Mumtaz Begum binti Peer Mustafa.- Details in Pendeta Discovery
+27. Adding emotions to synthesized Malay speech using diphone-based templates / Syaheerah Lebai Lutfi.- Details in Pendeta Discovery
+28. Adopting a theoretical method for the development of a service-oriented information system / Fatemeh Alsadat Nikayin.- Details in Pendeta Discovery
+29. Adopting value chain analysis in advertising management system / Mogan Thangarajo.- Details in Pendeta Discovery
+30. Algorithm optimization and low cost bit-serial architecture design for integer-pixel and sub-pixel motion estimation in H.264/AVC / Mohammad Reza Hosseiny Fatemi.- Details in Pendeta Discovery
+31. Algorithms for reliability evaluation of computer communicating system / by Adelina Tang Lai Toh.- Details in Pendeta Discovery
+32. Analisis koleksi sains dan teknologi pusat sumber sekolah : satu kajian di empat buah sekolah menengah di negeri Selangor / Nik Asma binti Nik Ahmad.- Details in Pendeta Discovery
+33. Analysing the research trends and use of information sources amongst postgraduate students in the humanities / Goi Sook Sze.- Details in Pendeta Discovery
+34. Analysis and design of intrusion detection system implementation / by Chia Keong.- Details in Pendeta Discovery
+35. Analysis and implementation of icons in the area of sound, video and graphics / by Norshaliza bt. Kamaruddin.- Details in Pendeta Discovery
+36. An analysis of a private-key cryptosystem / by Tan Wei-Wey.- Details in Pendeta Discovery
+37. Analysis of computer generated fractal dimension in biomedical science / Teh Aun Shih.- Details in Pendeta Discovery
+38. An analysis of enhanced lossless compression methods for road map images / Ng Choon Boon.- Details in Pendeta Discovery
+39. An analysis of Malaysian computer science and information technology research publications in selected international databases / Gu Yinian.- Details in Pendeta Discovery
+40. An analysis of research publications in library & information science in Malaysia /  Yeoh Hai Loon.- Details in Pendeta Discovery
+41. An analysis of the factors influencing faculty-library collaboration : towards a revised model for Sri Lankan universities / Wanigasekera Arachchige Dona Nayana Darshani Wijayasundara.- Details in Pendeta Discovery
+42. An analytical study of 4-way recognition-based sequence reproduction scheme in graphical password / Samaneh Farmand.- Details in Pendeta Discovery
+43. An animated agent for multiple programming platforms methodology / Norhaslinda Kamaruddin.- Details in Pendeta Discovery
+44. Anomaly activity detection framework using artificial immune system approach in sensor network / Lim Boon Keat.- Details in Pendeta Discovery
+45. Anomaly detection in online social networks using structure-based technique / Abdolazim Rezaei.- Details in Pendeta Discovery
+46. Aplikasi multimedia dalam penyebaran maklumat di TV3 / Zuraida binti Mohd Aziz.- Details in Pendeta Discovery
+47. Applicability of RC4 algorithm in bluetooth data encryption for achieving better security and energy efficiency of mobile devices / Sivalingham a/l Latchmanan.- Details in Pendeta Discovery
+48. An application for creating e-learning content storyboard based on instructional design principles / Wan Adli Ridzwan Wan Hassan.- Details in Pendeta Discovery
+49. An application of 3D logical structure in a DHT paradigm for efficient communication in manets / Shahbaz Akhtar Abid.- Details in Pendeta Discovery
+50. The application of artificial intelligent techniques in oral cancer prognosis based on clinicopathologic and genomic markers / Chang Siow Wee.- Details in Pendeta Discovery
+51. Application of artificial neural network for the prognosis of nasopharyngeal carcinoma / Sameem Abdul Kareem.- Details in Pendeta Discovery
+52. Application of artificial neural networks in software reliability studies / Wan Azizun Wan Adnan.- Details in Pendeta Discovery
+53. The application of backpropagation neural network in the prognosis of breast cancer / Hazlina binti Hamdan.- Details in Pendeta Discovery
+54. An application of fuzzy case based reasoning for poison classification / Hoda Sayyahi.- Details in Pendeta Discovery
+55. The application of image processing and machine learning techniques in the detection and classification of cancerous tissues in digital mammograms / Jawad Nagi.- Details in Pendeta Discovery
+56. Application of p index to evaluate the ranking of productive authors in Malaysia / Kamilya Assylbekova.- Details in Pendeta Discovery
+57. Application of qualitative process theory in modelling inorganic chemistry / Pang Jen-Sen.- Details in Pendeta Discovery
+58. The application of service-oriented architecture in e-complaint system / Amir Shareghi Najar.- Details in Pendeta Discovery
+59. The application of service-oriented architecture in electronic health record system / Taha Kazemi.- Details in Pendeta Discovery
+60. The application of UTAUT model to understand Malaysian authors readiness to self-archive in open access repositories / Feria Wirba Singeh.- Details in Pendeta Discovery
+61. Application of UTAUT2 model in students' acceptance of a learning management system / Noor Ul-Ain.- Details in Pendeta Discovery
+62. Application on the structure and measurement of key cardiac parameters from MR images of the left ventricle / S. Gnaneswaran.- Details in Pendeta Discovery
+63. Applications of soft computing techniques in the prediction of survival in cancer / Oras F. Baker.- Details in Pendeta Discovery
+64. Applying agile approach for the development of web-based prayers guide / Suzana Kassim.- Details in Pendeta Discovery
+65. Applying natural and total physical response method into an English-learning courseware development / Siti Aisyah.- Details in Pendeta Discovery
+66. Applying organizational memory system to leverage tacit knowledge / Cheku Nurul Hasmaria bt Cheku Yahaya.- Details in Pendeta Discovery
+67. Applying problem solving agent in human resource management system / Eric Wong Eu Wen.- Details in Pendeta Discovery
+68. Applying soft systems methodology (SSM) for designing Malay language learning portal / Anuradha a/p Dorairaja.- Details in Pendeta Discovery
+69. An approach for requirements engineering artifact modeling in scrum / Mahyar Shojaeifar.- Details in Pendeta Discovery
+70. An approach to modelling and simulating multithreaded schedulers for divide and conquer problems on multicore architecture / Alaa Mohammed Ali Wadi Al-Obaidi.- Details in Pendeta Discovery
+71. Arabic character recognition / Lana Yasin Ahmad El-Issa.- Details in Pendeta Discovery
+72. Arabic text-to-speech synthesizer / Ahmad Qasim Mohammad Al Jayousi.- Details in Pendeta Discovery
+73. Architectural design of cross banking management system / Maheswaran a/l Supramaniam.- Details in Pendeta Discovery
+74. An artificial co-stimulation classifier for malicious API calls classification in portable executable malwares / Saman Mirza Abdulla.- Details in Pendeta Discovery
+75. Ascertaining information literacy and information seeking behaviour of students conducting final year project / Mohd Sharif bin Mohd Saad.- Details in Pendeta Discovery
+76. Assessing collection security management in Nigerian university libraries / Abashe Atiku Maidabino.- Details in Pendeta Discovery
+77. An assessment of quality, trust and usability of Indonesian Agricultural Journals / Bambang Winarko.- Details in Pendeta Discovery
+78. Assessment of student satisfaction levels in using an e-resource tool developed for a selected girls school in Saudi Arabia / Rana Ahmed S. Abuzaid.- Details in Pendeta Discovery
+79. An assessment of the effectiveness of library resources and services in supporting researchers' information needs / Arinawati Ayob.- Details in Pendeta Discovery
+80. An Assessment of the Performance of Digital Libraries based on an Information Systems Impact Model / Mohd Razilan Abdul Kadir.- Details in Pendeta Discovery
+81. ATM network security with emphasis on cell filtering / Cheong Chee Seong.- Details in Pendeta Discovery
+82. ATM network simulator/ by Kartinah Zen.- Details in Pendeta Discovery
+83. Attitudes of librarians towards application of information technology in academic libraries in Pakistan / Muhammad Ramzan.- Details in Pendeta Discovery
+84. Automated intrusion prevention mechanism in enhancing network security / He Xiao Dong.- Details in Pendeta Discovery
+85. Automated statistical based worm discovery using packet frequency burst detection / Ahmad Helmi bin Mohd. Isa.- Details in Pendeta Discovery
+86. Automated tajweed checking rules engine for Quranic verse recitation / Noor Jamaliah binti Ibrahim.- Details in Pendeta Discovery
+87. Automated test scripts generation for agile development methodology / Wong Boon Ann.- Details in Pendeta Discovery
+88. An automated testing tool for safety critical software systems / Mehdi Malekzadeh.- Details in Pendeta Discovery
+89. Automated tool for personal software process / Aedah bt Abd Rahman.- Details in Pendeta Discovery
+90. Automatic emotion detection in speech using neural networks / Kamran Soltani.- Details in Pendeta Discovery
+91. An automatic failure recovery method for world-altering composite semantic web services / Hadi Saboohi.- Details in Pendeta Discovery
+92. Automatic hypermedia presentation generation system / Payam Mamaani Barnaghi.- Details in Pendeta Discovery
+93. Automatic speech recognition in pronunciation practice game application for speech impaired children / Azila binti Ahmad.- Details in Pendeta Discovery
+94. An automatic tool for normalization of relational database / Rathija Subramaniam.- Details in Pendeta Discovery
+95. Automating a modified personal software process (PSP) / Mohd Hairul Nizam Md NAsir.- Details in Pendeta Discovery
+96. Availability, visibility and web performance of digital repositories in the ASEAN countries / Tan Lee Hwa.- Details in Pendeta Discovery
+97. Awareness and application of social networking sites among Malaysia academic libraries / Rizalawati Ayu Abdul Razak.- Details in Pendeta Discovery
+98. Awareness and usage of electronic information resources among primary school teachers / Rosyidah Muhalim.- Details in Pendeta Discovery
+99. Awareness of problem based learning (PBL) in computer studies education in Malaysia / by Jane Lim See Yin.- Details in Pendeta Discovery
+100. Bahasa Melayu predictive text entry for Short Message Service (SMS) on mobile phones / Vijaya Mottaiyan.- Details in Pendeta Discovery
+101. A bandwith-aware job grouping-based scheduling on grid environment / Ng Wai Keat.- Details in Pendeta Discovery
+102. Barriers and facilitators in the provision of school library services for inclusive education / Ruslina Ahmad.- Details in Pendeta Discovery
+103. Bayesian and fuzzy logic implementation for unsolicited commercial email inline filter / Wan Nur Azhani bt W. Samsudin.- Details in Pendeta Discovery
+104. Behaviometrics system for automatic identity recognition / Assal Ali Mustafa Alqudah.- Details in Pendeta Discovery
+105. Behaviour of random early detection for differentiated services in MPLS networks / Yoo Sang Nge.- Details in Pendeta Discovery
+106. Best path cluster-based routing : an energy efficient algorithm for improving LEACH / Elham Babaee Salar Abadi.- Details in Pendeta Discovery
+107. The bibliographic control of dictionaries published in Malaysia between 1990-2005 / Nor Hamsiah binti Ahmad Hosaini.- Details in Pendeta Discovery
+108. A bibliographic survey on baba literature focus on chinese literary translated works into Baba Malay / Yoong Suan Kui.- Details in Pendeta Discovery
+109. A blog-based discussion tool for software project management course / Janagiammal a/p Ramasamy.- Details in Pendeta Discovery
+110. botAnalytics : improving HTTP-based botnet detection by using network behavior analysis system / Meisam Eslahi.- Details in Pendeta Discovery
+111. A broad survey of Web-based Bioinformatics research and data mining using BLAST / by Tan Wooi Keng.- Details in Pendeta Discovery
+112. A built-in self-testable bit-slice processor / Ibrahim Abubakr M.- Details in Pendeta Discovery
+113. Business process reengineering (BPR) in Malaysia / Malathi Letchumanan.- Details in Pendeta Discovery
+114. A C++ standard template library intelligent tutoring system with Bayesian and fuzzy logic student model / Christine Lee Siew Ken.- Details in Pendeta Discovery
+115. A cadastral web-mapping solution for a Libyan district / Amal Omar Abdulghader S. Omar.- Details in Pendeta Discovery
+116. Campus based e-commerce portal of University of Malaya / Ahmed Abdelaziz Abdeltif Osman.- Details in Pendeta Discovery
+117. Capturing and using mashup technology in extending the web contents of an scrapbooking tool / Yee Theen Gee.- Details in Pendeta Discovery
+118. Career counselling system / Kalaivani a/p K. Radakrishnan.- Details in Pendeta Discovery
+119. A case based reasoning approach for dynamic honeypot / Wira Zanoramy Ansiry Zakaria- Details in Pendeta Discovery
+120. A case tool for code inspection / by Siti Hajar binti Alias.- Details in Pendeta Discovery
+121. A case tool for UML via meta-modeling approach / Rosnafisah binti Sulaiman.- Details in Pendeta Discovery
+122. A CASE tool for workflow system / Salim F.S. Hlayel.- Details in Pendeta Discovery
+123. Centralization of authentication and authorization services in a heterogeneous set of web-based applications / Almir Cajic.- Details in Pendeta Discovery
+124. CETLs : a collaborative learning system to support students group activities using think-pair-share technique / Ainie Hayati Noruzman.- Details in Pendeta Discovery
+125. Chat archive visualisation using timeline presentational structure / Nona Ashraf Zadeh.- Details in Pendeta Discovery
+126. Chat persistency using speech acts and explicit referencing techniques / Mohsen Rahimifar.- Details in Pendeta Discovery
+127. Children and young adults' award-winning literature in Malaysia 1957-2006 : a bibliographic study / Nor Alina Ong.- Details in Pendeta Discovery
+128. A citation analysis of MLIS dissertations submitted to University of Malaya (2000-2005) / Yeap Chun Keat.- Details in Pendeta Discovery
+129. A citation analysis of theses and dissertations in education submitted to the University of Malaya / by Sapiah Sakri.- Details in Pendeta Discovery
+130. Classes of interval-valued fuzzy relational inference templates / Lim Guan Cheng.- Details in Pendeta Discovery
+131. Classification of acute leukemia using image processing and machine learning techniques / Hayan Tareq Abdul Wahhab.- Details in Pendeta Discovery
+132. Classification of real time traffic in heterogeneous networks / Raenu s/o Kolandaisamy.- Details in Pendeta Discovery
+133. Clinical Management System (CliniSys) / Saravanan a/l Govindasamy.- Details in Pendeta Discovery
+134. Clustering of large time-series datasets using a multi-step approach / Saeed Reza Aghabozorgi Sahaf Yazdi.- Details in Pendeta Discovery
+135. Clustering of XML Documents for Retrieval of Heterogeneous Digital Libraries / Nafisseh Samadi.- Details in Pendeta Discovery
+136. A code generator tool for the gamma design patterns / Novia Indriaty Admodisastro.- Details in Pendeta Discovery
+137. Cognitive load theory based model in mathematics software / Erni Marlina binti Saari.- Details in Pendeta Discovery
+138. A cognitive tool for visualising mathematical concepts / Thanaletchumi Dharmalingam.- Details in Pendeta Discovery
+139. Collaborative E-learning tool for secondary schools / Zahra Lotfi.- Details in Pendeta Discovery
+140. Collaborative requirement elicitation with visualization techniques for SaaS application / Dariush Mohammadi.- Details in Pendeta Discovery
+141. Collaborative teaching environment system using think-pair-share technique / Nik Azlina bt Nik Mahmood @ Nik Ahmad.- Details in Pendeta Discovery
+142. Collaborative workflow for lean production in a repair and overhaul industry / Lai Mei Yoon.- Details in Pendeta Discovery
+143. Collaborative workspace support for heuristic evaluation method / Elahe Khadivi.- Details in Pendeta Discovery
+144. Collection development of selected school resource centres in Sri Lanka / W. Sunil.- Details in Pendeta Discovery
+145. A colour based image retrieval system using global colour histrogram and harbin with image segmentation / Cheong Yew Kit.- Details in Pendeta Discovery
+146. Combating fraud and theft threats at host level using intrusion prevention system / Murugan s/o Thangavelu.- Details in Pendeta Discovery
+147. Compact composite descriptors for Content Based Image Retrieval / Safinaz Mustapha.- Details in Pendeta Discovery
+148. A comparative study of data mining techniques in predicting consumer credit card risks in bank / Ling Kock Sheng.- Details in Pendeta Discovery
+149. A comparative study of machine learning methods for android malware detection / Fairuz Amalina Binti Narudin.- Details in Pendeta Discovery
+150. A comparison  of genetic algorithms and graph colouring algorithms in solving a timetabling problem / Sayani binti Puteh.- Details in Pendeta Discovery
+151. Comparison of information visualisation techniques in presenting Quran histories and atlas / Jananatul Akmal binti Muhd Talib.- Details in Pendeta Discovery
+152. Comparison of information visualization techniques in presenting Quran for disable children / Nima Zolghadr- Details in Pendeta Discovery
+153. Competencies and personal qualities required of information professionals working in the Malaysian Multimedia Super Corridor (MSC) status companies / Norliya Ahmad Kassim.- Details in Pendeta Discovery
+154. Competencies for teacher librarians in Malaysia / Abrizah Haji Abdullah.- Details in Pendeta Discovery
+155. Complex searching over structured overlay under dynamic environment / Saiful Khan.- Details in Pendeta Discovery
+156. Component based development using PRADO framework / Vanisri a/p Ramasamy.- Details in Pendeta Discovery
+157. Component-based software development (CBSD) for web-based applications / Hazleen binti Aris.- Details in Pendeta Discovery
+158. A component-oriented approach for developing mobile financial application system (MFAS) / Poon Kian Wah.- Details in Pendeta Discovery
+159. Computational modeling of cerebellar model articulation controller / Alireza Jalali- Details in Pendeta Discovery
+160. Computational optimization and investigation of conjugate heat and mass transfer in porous cavity / Azeem.- Details in Pendeta Discovery
+161. Computer based intervention using emotion colour wheel for children with autism disorder / Syahrizal Bin Zaihadi.- Details in Pendeta Discovery
+162. A computer learning environment for fraction word problems based on cognitive-communicative model / Azlina Ahmad.- Details in Pendeta Discovery
+163. A computer managed instruction (CMI)-based tool to support information systems instructional processes / Wee Mee Chin.- Details in Pendeta Discovery
+164. Computer supported collaborative knowledge construction learning environment / Siti Soraya binti Abdul Rahman.- Details in Pendeta Discovery
+165. Computer supported systems for reflective learning / Hasti Khorasanizadeh.- Details in Pendeta Discovery
+166. A computer-aided personality types analysis system using handwriting analysis technique / Yee Li Yi.- Details in Pendeta Discovery
+167. A computer-aided system for the recording of hereditary diseases and analysis of genetic risks / Wong Voon Fui.- Details in Pendeta Discovery
+168. Computer-based support tool for visualization of brain anatomy / Rosmiza Wahida Abdullah.- Details in Pendeta Discovery
+169. Computer-generated fractals with medical application in trabecular bone structure / Hizmawati Madzin.- Details in Pendeta Discovery
+170. Computerization of leave management system in Malaysian school / Mohd Haddy bin Md. Yatim.- Details in Pendeta Discovery
+171. A computerized construction waste exchange system for Malaysia / Nur Hasnida binti Mohd Ramli.- Details in Pendeta Discovery
+172. Concept mapping as a knowledge organizer for learning history / Shubashini Karunakaran.- Details in Pendeta Discovery
+173. Conception, integration, and experiences of information literacy through resource-based learning / Halida Yu.- Details in Pendeta Discovery
+174. Conceptual framework and instructional design process model supporting student-centric E-learning environment based on E-learning pedagogy and multiple intelligences theory / Kemalatha Krishnasamy.- Details in Pendeta Discovery
+175. A configurable tool for dynamic web-enabled courseware development / Teo Hock Keong.- Details in Pendeta Discovery
+176. Conjunctions in biological neural architectures for visual pose estimation / Tomas Maul.- Details in Pendeta Discovery
+177. Constrained clustering approach to aid in remodularisation of object-oriented software systems / Chong Chun Yong.- Details in Pendeta Discovery
+178. Constrained global optimization with hybrid of SP-QPSO using adaptive penalty method / Fatemeh Divan Bachari.- Details in Pendeta Discovery
+179. Content-based image retrieval for blood cell images / Mohamad Reza Zare.- Details in Pendeta Discovery
+180. Content-based image retrieval of blood cells based on colour / Alagu Rathina Bairavi.- Details in Pendeta Discovery
+181. Continuing education needs of library and information science professionals in universities in Malaysia / Irni Izwah bt. Abu Bakar.- Details in Pendeta Discovery
+182. Continuous integration for automated test execution with Jenkins / Azriana Sanimin.- Details in Pendeta Discovery
+183. Continuous speech recognition for standard Malay using hidden Markov models / Noraini binti Mohamed.- Details in Pendeta Discovery
+184. A cooperative co-evolutionary immune system detection mechanism (CoCo-ISDM) / Mehdi Jahanirad.- Details in Pendeta Discovery
+185. CoPas : an experimental expert adviser system for cataloguing published conference proceedings / Sharon Manel De Silva.- Details in Pendeta Discovery
+186. Coronary artery stenosis detection and visualization / Tang Sze Ling.- Details in Pendeta Discovery
+187. Cost estimation tool for web-based application / Zulkefli bin Mansor.- Details in Pendeta Discovery
+188. Criteria children use to choose books in selected children's public libraries in Kuala Lumpur and Petaling Jaya / Syahranah binti Ahmad Raqi.- Details in Pendeta Discovery
+189. Critical success factors for an E-Tourism services implementation initiative / Ibrahim Hamed Alghafri.- Details in Pendeta Discovery
+190. A CRM framework for a banking call centre / Roskhan bin Abdul Shukur.- Details in Pendeta Discovery
+191. Cross platform smart device application to read the Arabic alphabets for autism children / Riyaz Ahamed A.H.- Details in Pendeta Discovery
+192. Crosscutting concern identification at the requirements level using NLP / Busyairah Syd Ali.- Details in Pendeta Discovery
+193. Cued recall graphical password system resistant to shoulder surfing / Lai Hooi Li @ Lee Hooi Li.- Details in Pendeta Discovery
+194. The current status of resource centres in Malaysian Chinese schools / Yong Ngi Lang.- Details in Pendeta Discovery
+195. The current status of resource centres in Malaysian Tamil Schools / Sundakumari a/p Rengasamy.- Details in Pendeta Discovery
+196. Customer satisfaction assesment system for Iran Air / Hanieh Sadat Mojtahedzadeh Sarjami- Details in Pendeta Discovery
+197. Cutting and grabbing simulation of laparoscopic cholecystectomy in dekstop environment / Die Hui Hui.- Details in Pendeta Discovery
+198. Data hiding for image using double layered embedding mechanism / Alireza Zarrabi.- Details in Pendeta Discovery
+199. Data hiding for image using sequential colour cycle algorithm / Delina Beh Mei Yin.- Details in Pendeta Discovery
+200. Data mining implementation for libraries / Rabindranath Raj.- Details in Pendeta Discovery
+201. A data mining middleware configurable to support multiple data sources, mining algorithms and model visualizers / Hen Lai Ee.- Details in Pendeta Discovery
+202. Data preparation tool for exploration in data mining / Lee Hock Heng.- Details in Pendeta Discovery
+203. A data warehouse for clinical decision support system / Ong Suan Sim.- Details in Pendeta Discovery
+204. Data warehousing of plant taxonomic keys for species identification / Sharifalillah Nordin.- Details in Pendeta Discovery
+205. A decision support system for the electronic patient's nutritional record using fuzzy logic / Ali Mohammad Hadianfard.- Details in Pendeta Discovery
+206. Decision support system for the selection, implementation and evaluation of Enterprise Resource Planning systems / Zaini bin Zainol.- Details in Pendeta Discovery
+207. Delivery of service oriented architecture web-services for post-graduate students / Ehab Nabiel Mohammed al-Khannaq.- Details in Pendeta Discovery
+208. A descriptive study of information and communication technology usage in secondary schools in Petaling Jaya area / Ambar Jeet Singh.- Details in Pendeta Discovery
+209. A descriptive study on the research trends of postgraduate students in the sciences / Leelawathy a/p Kanapathy Pillai.- Details in Pendeta Discovery
+210. Design and analysis of digital image watermaking using wavelet transform / Wan Azizun binti Wan Adnan.- Details in Pendeta Discovery
+211. Design and analysis of lightweight biometric algorithm for mobile phone security / Saied Ali Hosseini Noudeh.- Details in Pendeta Discovery
+212. Design and development of domain ontology based on spiral model approach / Hafizullah Amin bin Hashim.- Details in Pendeta Discovery
+213. Design and development of training module based on E-Learning features / Rajeswari Karupiah- Details in Pendeta Discovery
+214. Design considerations for problem based learning support tools / Khaled Amayreh.- Details in Pendeta Discovery
+215. Design of personal learning environment for learner autonomy / Lim Shen Huoy.- Details in Pendeta Discovery
+216. The design of web-based medical image system using Attribute-Driven-Design (ADD) method / Maryam Zakeryfar.- Details in Pendeta Discovery
+217. Design patterns detection tool / Wael M. K. Fares.- Details in Pendeta Discovery
+218. Design patterns metamodel extension for pattern-based visual modeling tool support / Loo Keen Ngee.- Details in Pendeta Discovery
+219. Designing a curriculum in school librarianship for the Faculties of Education in Sudan / Imad Eldin Khalifa A. Elgasim.- Details in Pendeta Discovery
+220. Designing an educational website for preschoolers : a focus on usability / Neta Suryana Baharum.- Details in Pendeta Discovery
+221. Designing an expert system for investment analysis / by Choong Yeow Wei.- Details in Pendeta Discovery
+222. Designing software architecture for web-based health care information system using the four view approach / Sri Devi Ravana.- Details in Pendeta Discovery
+223. Desktop and intranet-based searching, downloading and monitoring tool / Rekha Nair C. Gamgadharan Nair.- Details in Pendeta Discovery
+224. Detecting emotions in Arabic speech using Hidden Markov models / Muhannad Nasser Younis Al-Naabi.- Details in Pendeta Discovery
+225. Detecting HCI design patterns using UML class diagrams / Nazanin Aminzadeh.- Details in Pendeta Discovery
+226. Detection of mobile botnet applications using structural and behavioral patterns / Ahmad Karim.- Details in Pendeta Discovery
+227. Determining the effectiveness of digital reference services in selected academic libraries in Malaysia / Wan Ab. Kadir Wan Dollah.- Details in Pendeta Discovery
+228. Developing a School Management Information System (SMIS) for secondary school in China using Service Oriented Architecture (SOA) / Han Wei.- Details in Pendeta Discovery
+229. Developing an Integrated Public Transport Information System (IPTIS) for Kuala Lumpur using Service Oriented Architecture (SOA) / Wang Jing.- Details in Pendeta Discovery
+230. Developing an online communication system for student affairs in e-learning environment / Mehdi Changizi.- Details in Pendeta Discovery
+231. Developing and implementing a transparent secure email system using PKI for a localized environment using easily available resources / Syed Nasir Alsagoff bin Syed Zakaria.- Details in Pendeta Discovery
+232. Development and applications of interactive multimedia TAPS (Technology Assisted Problem Solving) packages for engineering / Manjit Singh Sidhu.- Details in Pendeta Discovery
+233. The development and evaluation of an e-balanced scorecard system for academics / Premylla Jeremiah.- Details in Pendeta Discovery
+234. Development and validation of a knowledge quality instrument for E-learning content / Mehwish Waheed- Details in Pendeta Discovery
+235. Development framework for sales force automation domain / Lily Suryani binti Safie.- Details in Pendeta Discovery
+236. Development of a CAI authoring & rule-based shell system / by Yap May Lin.- Details in Pendeta Discovery
+237. Development of a child care application system for working parents / Maryam Ghadery.- Details in Pendeta Discovery
+238. Development of a colour communication in web services for textile industry / Er Hock Chiye.- Details in Pendeta Discovery
+239. Development of a competency model for special librarians in Iran / Alireza Peyvand Robati.- Details in Pendeta Discovery
+240. Development of a customisable object-oriented tool for production planning / by Ching Gwek Cheng.- Details in Pendeta Discovery
+241. Development of a job web portal to capture industry's needs / Marjan Mansourvar.- Details in Pendeta Discovery
+242. Development of a learning style system / Hafizah Nor Abu Hassan.- Details in Pendeta Discovery
+243. Development of a model for blended learning in traditional universities in Palestine / Ghassan O A Shahin.- Details in Pendeta Discovery
+244. The development of a multimedia authoring tool / Santhimathy T. Venugopal.- Details in Pendeta Discovery
+245. Development of a networking education portal for secondary education communities / Saranjeet Kaur a/p Darsin Singh.- Details in Pendeta Discovery
+246. Development of a portal to manage the activities of a research centre / Khalil Ibrahim Shaat.- Details in Pendeta Discovery
+247. Development of a reusable object oriented application framework for library systems domain / Roy Chew Teck Choye.- Details in Pendeta Discovery
+248. Development of a scheduling tool for constructing a Malaysian school timetable using genetic algorithms / by Salihin Farag Shoeeb.- Details in Pendeta Discovery
+249. Development of a software testing tool for applications on Android mobile devices / Kam Kah Kiang.- Details in Pendeta Discovery
+250. Development of a text to use case diagram tool / Wan Hasnira binti Wan Husin.- Details in Pendeta Discovery
+251. Development of a university timetable using genetic algorithms / El Mahdi Farag Omer.- Details in Pendeta Discovery
+252. Development of a web-based software project management application using oracle application express / Irshad ur Rehman Dar.- Details in Pendeta Discovery
+253. Development of a web-based system to analyse the emotional, mental, and physical (EMP) health conditions of users / Afzal Hussain.- Details in Pendeta Discovery
+254. Development of a Web-Based System to Monitor Postgraduate Students' Research Output / Fereshteh Mahdavi.- Details in Pendeta Discovery
+255. Development of an academic library website model for distance learners / Iddamalgodage Dona Anusha Lakmini Wijayaratne.- Details in Pendeta Discovery
+256. The development of an animated skills instructional system for barcode industry / Hao Jinyang.- Details in Pendeta Discovery
+257. Development of an integrated scale for the measurement of web-based library service quality / Kiran Kaur a/p Gurmit Singh.- Details in Pendeta Discovery
+258. Development of an internet-based system for calibration of instruments / Yong En Haur.- Details in Pendeta Discovery
+259. The development of BGP network simulator and inter domain traffic engineering mechanisms / Ling Teck Chaw.- Details in Pendeta Discovery
+260. Development of call-recall system using convergence technologies for cervical cancer screening program / May Faik Hussain.- Details in Pendeta Discovery
+261. Development of constructive feedback environment in Novices' Summarizing Strategies Identification Tool (NoSSIT) / Chew Chiou Sheng.- Details in Pendeta Discovery
+262. The development of content management system for Narcotic Department in Royal Malaysia Police / Zul Haizal bin Zainal Abidin.- Details in Pendeta Discovery
+263. Development of Islamic game software using software engineering principles / Norhaslina binti Kamarulzaman.- Details in Pendeta Discovery
+264. The development of knowledge based helpdesk system for a large multinational company / Ponmalar Parasuraman.- Details in Pendeta Discovery
+265. The development of knowledge management portal for small medium enterprises in Malaysia / Lutfiah binti Mukhtar.- Details in Pendeta Discovery
+266. The development of learning support system for blended learning environment / Tee Sim Shu.- Details in Pendeta Discovery
+267. The development of mobile content management tool for hypermarket storewide environment in Malaysia / Yap Lah Ghee.- Details in Pendeta Discovery
+268. Development of object oriented ATM simulator components for TCP congestion control over ATM / Jeffrey Chua Sern Loong.- Details in Pendeta Discovery
+269. Development of object oriented components for ATM network simulation with emphasis on congestion control / Lee Wen Dee.- Details in Pendeta Discovery
+270. Development of object oriented components for ATM network simulation with emphasis on switch architecture / Gan Meng Kiat.- Details in Pendeta Discovery
+271. The development of online counseling system using AJAX approach / Siti Nurulain bt Mohd Rum.- Details in Pendeta Discovery
+272. The development of organizational memory information system for a faculty / Yana Mazwin binti Mohmad Hassim.- Details in Pendeta Discovery
+273. The development of QoS routing and traffic conditioning in DiffServ MPLS networks / by Phang Keat Keong.- Details in Pendeta Discovery
+274. Development of web-based electronic money for online payment transaction / Lim Yan-Yan.- Details in Pendeta Discovery
+275. The development of WeRCLeA : a reviewing tool for collaborative learning applications / Halimah Ab Rahman.- Details in Pendeta Discovery
+276. Different learning styles in acquisition of declarative and procedural knowledge / Ammuthavali Ramasamy.- Details in Pendeta Discovery
+277. The diffusion of systems integration in the Malaysian public sector : triggers, obstacles and success factors / Zaitun Abu Bakar.- Details in Pendeta Discovery
+278. Digital libraries initiatives in Malaysia : readiness and perceived conditions for future growth / Norasiah Haji Harun.- Details in Pendeta Discovery
+279. Digital literacy among Postgraduate students at Asia E University / Rashidah Alimat.- Details in Pendeta Discovery
+280. Digital note taking tool using a mediation approach / Mogeeb Ahmed Ahmed Mosleh.- Details in Pendeta Discovery
+281. Digital watermarking in 2D and 3D transform domains focusing on fidelity and robustness / Almas Abbasi.- Details in Pendeta Discovery
+282. Disaster recovery planning : local and remote data backup system / Low Chin Seng.- Details in Pendeta Discovery
+283. Discovery of invariant bot behaviour through visual network monitoring system / Seyed Alireza Shahrestani.- Details in Pendeta Discovery
+284. A discrete computational aesthetics model for a zero-sum perfect infomation game / Mohammed Azlan bin Mohamed Iqbal.- Details in Pendeta Discovery
+285. Distributed controller clustering in software defined newtworking / Usman Haruna Garba.- Details in Pendeta Discovery
+286. Distributed mobility management (DMM) for inter-domain handover in MIPv6 / Ahmad Abdul Rahim Musleh.- Details in Pendeta Discovery
+287. Document management API for managing software artifacts / Wong Chi Chong.- Details in Pendeta Discovery
+288. Dual-bandwidth data path for 4G mobile internet / Xichun Li.- Details in Pendeta Discovery
+289. Dynamic and manageable honeypot : Honeyd@WEB / Chong Wei Yao.- Details in Pendeta Discovery
+290. Dynamic bandwidth allocation using neural-fuzzy in ATM network / by Chua Yan Sing.- Details in Pendeta Discovery
+291. Dynamic cardiac mechanics based on fiber-fluid model / Tan Sieow Yeek.- Details in Pendeta Discovery
+292. Dynamic data caching for web services with Jini technology / Seetha Devi a/p Govindasamy.- Details in Pendeta Discovery
+293. Dynamic D-FPAV congestion control algorithm for VANETs / Mohammad Reza Jabbarpour Sattari.- Details in Pendeta Discovery
+294. Dynamic display of text using lexical chains / Ali Sarvghad Batn Moghaddam.- Details in Pendeta Discovery
+295. Dynamic fractal-based brain state recognition from EEG signal / Hoseein Siamaknejad.- Details in Pendeta Discovery
+296. Dynamic modeling of cell flow for an ATM network / Tay Sok Kem.- Details in Pendeta Discovery
+297. Dynamic modelling of a two-stage ATM Tandem Banyan switch / by Tham Hon Loke.- Details in Pendeta Discovery
+298. Dynamic network traffic controlling system using normal prediction interval / Akash Rosen R K.- Details in Pendeta Discovery
+299. Dynamic pricing scheme for resources allocation in cloud computing / Nurul Aina binti Muhamad Shaari.- Details in Pendeta Discovery
+300. Dynamic queing in data grid scheduling / Woo Kai Sum.- Details in Pendeta Discovery
+301. Dynamic remote data auditing for securing big data storage in cloud computing / Mehdi Sookhak- Details in Pendeta Discovery
+302. Dynamic scaffolding self-regulated learning system / Di Qian Qian- Details in Pendeta Discovery
+303. A dynamic source routing protocol for Wireless Mesh network using signal-to-noise ratio / Samih Eisa Suliman Abdalla.- Details in Pendeta Discovery
+304. Dynamic unsupervised feedforward neural network clustering / Roya Asadi.- Details in Pendeta Discovery
+305. Dynamic vertical handover scheme for wireless environments / Sayed Mousa Ahmadi Olounabadi.- Details in Pendeta Discovery
+306. Dzarnet : implementation of digital gold currency in e-commerce / Leila Haddadi.- Details in Pendeta Discovery
+307. Early quality assessment of object-oriented code through a software quality model / Ervin Loh Chuan Ho.- Details in Pendeta Discovery
+308. e-Assessment Management System (e-AMS) for generating scorm compliant questions / Lim Sau Yin.- Details in Pendeta Discovery
+309. Easywinwin with quality assurance and multi-criteria preference techniques : a groupware system for negotiating requirements / Hazrina binti Sofian.- Details in Pendeta Discovery
+310. E-balanced scorecard system for performance planning and management of lecturers in higher education institutions / Yu May Leen.- Details in Pendeta Discovery
+311. E-commerce solution for electronic tendering system using secure electronic transaction / Mazlina bt Abdul Majid.- Details in Pendeta Discovery
+312. E-community system for Master of Information Technology students / Hilal Abdullah Ali Al-Alawi.- Details in Pendeta Discovery
+313. Education and training of teacher librarians in Sri Lanka / Padmasiri Thenabadu.- Details in Pendeta Discovery
+314. E-dyslexic : (an interactive multimedia learning software) / Fazliah binti Jublee.- Details in Pendeta Discovery
+315. The effect of geographical region on the transition time of CMMI-based software process improvement / Fahad Hamed Alshammari.- Details in Pendeta Discovery
+316. Effective low-cost experimental techniques for text retrieval evaluation / Ali Goudarzi.- Details in Pendeta Discovery
+317. The effectiveness of detection methods in intrusion detection systems / by Hafiz bin Mohd Sarim.- Details in Pendeta Discovery
+318. The effectiveness of managing split attention among autism children using computer based intervention / Zeinab Shams Aliee.- Details in Pendeta Discovery
+319. The effects of animated content on user's attitude towards mobile advertising system / Murtala Aminu Buhari.- Details in Pendeta Discovery
+320. Efficient control of virus propagation (ECOVP) / Madihah Mohd. Saudi.- Details in Pendeta Discovery
+321. E-government implementation in Malaysia : success factors and obstacles / V. Kavi Sharma a/p Vijay Kumar.- Details in Pendeta Discovery
+322. E-jurnal ilmiah di Malaysia : status dan sikap ahli akademik / Roosfa bin Hashim.- Details in Pendeta Discovery
+323. E-learning in Malaysia : adult perceptions as a method for further studies / Ng Poh Yen.- Details in Pendeta Discovery
+324. E-learning system on antimoney laundering / R. Nantha Kumar a/l Rajendran.- Details in Pendeta Discovery
+325. E-learning using the study companion approach for secondary school mathematics (ESCA-MATH) / Nur Azizan@Nur Azyan bt Yusof.- Details in Pendeta Discovery
+326. Electronic book for learning Malay language : a case study at University of Malaya / Viontareza Adha.- Details in Pendeta Discovery
+327. Electronic Customer Relationship Management (E-CRM) to support e-shoppers in Cheng Du, China / Dong Xin.- Details in Pendeta Discovery
+328. Electronic file security system implementation for enterprise internal use using public key infrastructure / Nathan M. Balakrishnan.- Details in Pendeta Discovery
+329. Electronic publishing in the Universiti of Malaya (EPUM) / Suriawati binti Suparjoh.- Details in Pendeta Discovery
+330. Electronic voting system on wireless application protocol platform : case study at University of Tenaga Nasional / Cheong Hong Chai.- Details in Pendeta Discovery
+331. Eliciting paleographers' needs and modeling a collaborative workspace for digital library Malay manuscripts / Zahidah Zulkifli.- Details in Pendeta Discovery
+332. Eliciting sustainability requirements for green mobile application design / Sanah Abdullahi Muaz- Details in Pendeta Discovery
+333. Eliciting tacit knowledge through virtual environment technology / Nor Suhaila binti Jama'in.- Details in Pendeta Discovery
+334. Eliciting the needs and architecting a digital library for Asian-Pacific Resource & Research Centre for Women (ARROW) / Husam N. Yasin.- Details in Pendeta Discovery
+335. Eliciting user needs in architecting a collaborative digital library using Zachman approach / Abrizah Abdullah.- Details in Pendeta Discovery
+336. Eliminating scanning delay using advanced neighbours discovery with caching / Ghaith A. Abdul Wahed.- Details in Pendeta Discovery
+337. Embedded image processing module for vehicle occupancy detection / Yong Yoke Leng.- Details in Pendeta Discovery
+338. EMPHA : an emotional, mental and physical health analyser / Muhammad Haroon.- Details in Pendeta Discovery
+339. Employee Competencies Appraisal System (ECAS) : a computer-aided appraisal system based on the Balanced Appraisal Model (BAM) for the software industry / Chen Hen Wan.- Details in Pendeta Discovery
+340. An end-to-end Short Message Service (SMS) security using a hybrid technique of NTRU and AES-Rijndael / Samer Hasan Saif Qaid.- Details in Pendeta Discovery
+341. Engaging students in critical thinking through information competency assessment : a single group repeated measures design / Lleuvelyn Areglado Cacha.- Details in Pendeta Discovery
+342. An enhanced anycast routing protocol using nearest PIM-SM tree distribution with load-balancing scheme / Jimmy Tan Kai Hong.- Details in Pendeta Discovery
+343. Enhanced password-based authentication protocol / Lee Chee Kiam.- Details in Pendeta Discovery
+344. Enhanced public key infrastructure (PKI) to solve SHH Man-in the-middle attacks problem / Heliza binti Juffri.- Details in Pendeta Discovery
+345. Enhanced QoS rerouting scheme in MPLS networks / Ngo Foong Kiew.- Details in Pendeta Discovery
+346. An enhanced security mechanism for bluetooth using digital signature algorithms and trusted third party / by Marini Othman.- Details in Pendeta Discovery
+347. Enhanced software clustering and prioritisation technique : an adaptive approach / Chong Chun Yong.- Details in Pendeta Discovery
+348. Enhanced software development cost and effort estimation using fuzzy logic model / Man Peck Yen.- Details in Pendeta Discovery
+349. Enhanced wireless network performance using fuzzy logic / Soo Wooi King.- Details in Pendeta Discovery
+350. Enhanced-AODV routing protocol in Vehicular Ad-hoc Networks (VANETs) environment / Hooman Hoodeh.- Details in Pendeta Discovery
+351. Enhancement of beaconing mechanism for unicast geographic routing in vehicular networks / Mustapha Abubakar Ahmed- Details in Pendeta Discovery
+352. Enhancement of DSDV routing protocol in vehicular ad hoc network / Aref Hassan Poor.- Details in Pendeta Discovery
+353. Enhancement of e-assessment for personalize learning / Siti Amalina binti Ismail.- Details in Pendeta Discovery
+354. Enhancement of handoff in VANET / Arsalan Emami.- Details in Pendeta Discovery
+355. Enhancement of spam detection in instant messaging environment / Seyedeh Ghazal Ghalebandi.- Details in Pendeta Discovery
+356. Enhancement of steganography metrics scheme to assess the quality of image / Ali Khadair Kadam Al-Frajat.- Details in Pendeta Discovery
+357. The enhancement of tagging technique for managing and retrieving photos in a digital photo repository / Suhaimi bin Abd Ishak.- Details in Pendeta Discovery
+358. Enhancing discrete event simulation using multi-dimensional queue technique for multi-core processors environment / Wong Ming Tat.- Details in Pendeta Discovery
+359. Enhancing Fast Mobile IPv6 (FMIPv6) handoff by eliminating reactive mode using candidate care-of address / Amirreza Bagheri.- Details in Pendeta Discovery
+360. Enhancing handoff management in mobile IPv6 / Aws Khaled Hassan.- Details in Pendeta Discovery
+361. Enhancing handoff process using IAPP with caching techniques / Obay H. Sabrie.- Details in Pendeta Discovery
+362. Enhancing job scheduling with adaptive prediction model based on user profiling / Chong Sin Ni.- Details in Pendeta Discovery
+363. Enhancing mixing recognition-based and recall-based approach in graphical password scheme / Toomaj Zangooei.- Details in Pendeta Discovery
+364. Enhancing passenger experience with real time information system : a case study on public bus transportation / Fang Siew Ken.- Details in Pendeta Discovery
+365. Enhancing Security in Mobile IPv6 with Private Key-Based Binding Update Protocol / Hero Modares.- Details in Pendeta Discovery
+366. Enhancing selective encryption for H.264/AVC advanced encryption standard / Mohamad Ali Saleh Abomhara.- Details in Pendeta Discovery
+367. An environment for collaborative requirements prioritization process / Asma Raihan binti Ghazali.- Details in Pendeta Discovery
+368. E-procurement system : an open source approach / Kanmani Munusamy.- Details in Pendeta Discovery
+369. E-santur : a customizable tool for learning santur music instrument using game-based learning approach / asra Majbouri Yazdi.- Details in Pendeta Discovery
+370. E-secure : a security tool for Microsoft Windows server hardening / Harpreet Singh a/l Jaswant Singh.- Details in Pendeta Discovery
+371. Estimation of software size and effort based on software requirements document / Noureldin Abbaker Zakria Adem.- Details in Pendeta Discovery
+372. ETD repository system using data grid / Shwe Yee Than.- Details in Pendeta Discovery
+373. E-tutorial system using interoperable learning objects technology / Lim Yeng Chai.- Details in Pendeta Discovery
+374. Evaluating information retrieval system by automizing the generation of relevance judgments / Prabha a/p Rajagopal- Details in Pendeta Discovery
+375. Evaluating intrusion detection systems in a Unix-based environment / by Mazni Zambri.- Details in Pendeta Discovery
+376. Evaluating the performance of a telerobotic system employing model predictive control techniques / Hossein Ghaffari.- Details in Pendeta Discovery
+377. Evaluation methodlogies of recommendation system : an experimental approach / Priya a/p Krishnan- Details in Pendeta Discovery
+378. Evaluation model for knowledge sharing in information security professional virtual community / Alireza Tamjidyamcholo.- Details in Pendeta Discovery
+379. Evaluation of academic library web sites in Malaysia / Lee Kee Hiong.- Details in Pendeta Discovery
+380. Evaluation of credit risk using evolutionary-fuzzy logic scheme / Adel Lahsasna.- Details in Pendeta Discovery
+381. Evaluation of education system design using the socio-constructivist and software heuristic approaches / Sarinder Kaur a/p Kashmir Singh.- Details in Pendeta Discovery
+382. An evaluation of mobile device identification using spectral features / Koo Sue Lynn.- Details in Pendeta Discovery
+383. Examinations web services system using .NET framework / by Yip Chi Kiong.- Details in Pendeta Discovery
+384. An expert system for single processor computer system fault diagnosis / by Ting Kai Ming.- Details in Pendeta Discovery
+385. An expert system for teaching summarization / Somayeh Ghanbarzadeh.- Details in Pendeta Discovery
+386. Exploiting World Wide Web : a tool to faciltate reading / Mogana Sunthari Bai Ramasamy.- Details in Pendeta Discovery
+387. An exploratory study of measurement on reference services among Malaysian universities libraries with MS ISO 90001:2000 certification / Suzinor binti Kamaralzaman.- Details in Pendeta Discovery
+388. Exploring library anxiety among medical students : a cross-sectional investigation / Nik Nur Asilah binti Nik Shamsuddin.- Details in Pendeta Discovery
+389. Extending rule-based technique with ontology / Hairul Aysa Abdul Halim Sithiq- Details in Pendeta Discovery
+390. Extolware : a persistence framework for persistent objects definition and management / Lim Tong Ming.- Details in Pendeta Discovery
+391. An extraction of class diagram from textual requirements using natural language processing / Mohammed Ibrahim al-Qaoud.- Details in Pendeta Discovery
+392. Ezway : a WAP application for General Packet Radio Service (GPRS) users / Eizan Azira binti Mat Sharif.- Details in Pendeta Discovery
+393. Face emotion recognition system with integrated intelligent techniques / Johriah Norfizlina binti Ismail.- Details in Pendeta Discovery
+394. Face recognition time attendance system / Yeap Hon-En.- Details in Pendeta Discovery
+395. Faceted search of open educational resources using the desirability index / Ishan Sudeera Abeywardena.- Details in Pendeta Discovery
+396. Facial emotion detection using supervised neural networks / Fereshteh Soltani.- Details in Pendeta Discovery
+397. Facilitating autism children in understanding virtual reality environment in bathroom using spatial and cognitive mapping method / Kesavan a/l Krishnan- Details in Pendeta Discovery
+398. Factor Criteria Metric (FCM) for requirements analysis phase in the development of management information systems / Chew Wei Yin.- Details in Pendeta Discovery
+399. Factors affecting the implementation of information technology in secondary schools within the Klang Valley / Zuraidah binti Saidon.- Details in Pendeta Discovery
+400. Faculty's used books e-platform / Muhaini Othman.- Details in Pendeta Discovery
+401. Feature extraction and classification of cardiotocogram signal to detect fetal condition / Raseeda bt Hamzah.- Details in Pendeta Discovery
+402. Feature extraction and classification of electrocardiogram signal to detect arrhythmia and ischemia disease / Nor Hafeezah binti Kamarudin.- Details in Pendeta Discovery
+403. Feature extraction and classification of electromyogram signal to detect myopaties disease / Nor Shariza binti Bashar.- Details in Pendeta Discovery
+404. Federated Searching for Cross Institutional Repositories Based on Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) / Menaga Sabapathy.- Details in Pendeta Discovery
+405. File transfer using mobile agent / Radin Izzatul Muna Ahmad Zabidi.- Details in Pendeta Discovery
+406. A filtering tool for search engines / Ahmad Zaki Yousef (Al-Abdala).- Details in Pendeta Discovery
+407. A finite element approach for the planning and simulation of 3D mandibular osteotomy for orthognathic surgery / Unaizah Hanum binti Obaidellah.- Details in Pendeta Discovery
+408. A flexible query transformation framework for structured retrieval / Gan Keng Hoon.- Details in Pendeta Discovery
+409. A flowchart-based intelligent tutoring system model to improve students' problem-solving skills / Danial Hooshyar.- Details in Pendeta Discovery
+410. FOCT : a collaboratives system for CASE tools users / Zhu Lizhong.- Details in Pendeta Discovery
+411. Focus group discussion-supported approach to requirements elicitation for courseware development / Zarinah Mohd Kasirun.- Details in Pendeta Discovery
+412. FOODS : a prototype fuzzy object-oriented database system / Phang Keat Keong.- Details in Pendeta Discovery
+413. FPGA co-processor design for lane detection and estimation / Shariman bin Omar.- Details in Pendeta Discovery
+414. An FPGA implementation of stream cipher encryption based on statistical approach / Ainuddin Wahid Abdul Wahab.- Details in Pendeta Discovery
+415. FPGA unsolicited commercial email inline filter design using levenshtein distance algorithm and longest common subsequence algorithm / Tee Huat Heng.- Details in Pendeta Discovery
+416. A fractal-based model to improve cooperation among physicians in distributed healthcare information systems / Nawzat S. Ahmed.- Details in Pendeta Discovery
+417. A framework for building an e-library data warehouse / Ng Hooi Peng.- Details in Pendeta Discovery
+418. A framework for component model selection / Hazleen Aris.- Details in Pendeta Discovery
+419. A framework for development enterprise social media application in Malaysian small and medium sized enterprises / Mohamud Ali Ahmed- Details in Pendeta Discovery
+420. A framework for implementing mobile interactive lecture information systems in higher learning institutions / Gan Chin Lay.- Details in Pendeta Discovery
+421. A framework for learning from multimedia : the effects of interface on user performance / Nor 'Ain Haron.- Details in Pendeta Discovery
+422. Framework for User Involvement in Information System Development (ISD) Projects Using Agile Approach / Siwa Kumaran a/l Thannimalai.- Details in Pendeta Discovery
+423. A framework of digital library system : a case of Iraqi culture / Ali Abdalrahem Alwan.- Details in Pendeta Discovery
+424. A framework of knowledge portal for Malaysian public consultation / Yalda Azarbarzin.- Details in Pendeta Discovery
+425. A framework to determine the quality of academic institutional web sites / Auzani binti Fikry.- Details in Pendeta Discovery
+426. A framework to support cross-platform application development for mobile devices / Hossein Arabi.- Details in Pendeta Discovery
+427. A framework to support the teaching of introductory programming / Randave Singh Gill.- Details in Pendeta Discovery
+428. The fusion of particle swarm optimization (PSO) and interior point method (IPM) as cooperative movement control algorithm in swarm robotics / Dada Emmanuel Gbenga.- Details in Pendeta Discovery
+429. Fuzzy logic control in ATM networks / Lau Weng Tat.- Details in Pendeta Discovery
+430. Fuzzy logic mandible database for maxillo facial surgery / Sara binti Mohd Khanafiah.- Details in Pendeta Discovery
+431. Fuzzy Qualitative Approach to Address Uncertainty in Human Motion Analysis / Lim Chern Hong- Details in Pendeta Discovery
+432. A fuzzy regression model for the prediction of oral cancer susceptibility / Rosma Mohd Dom.- Details in Pendeta Discovery
+433. Game based framework for history learning : using constructionism approach / Lim Eng Lye.- Details in Pendeta Discovery
+434. Generation of page objects for web application's test cases / Samuel Wong Chang Loong- Details in Pendeta Discovery
+435. A generic database querying system for WAP-enabled mobile phones / Rohiza Ahmad.- Details in Pendeta Discovery
+436. A generic process framework in support of personal development application using social context information / Parisa Derakhshani.- Details in Pendeta Discovery
+437. A generic relation to assess interdependency of QoE and QoS / Sajad Khorsandroo.- Details in Pendeta Discovery
+438. Generic web-based survey system generator / Tan Chin Teng.- Details in Pendeta Discovery
+439. A genetic algorithm solution to the shortest path problem in OSPF and MPLS / by Tee Wee Jing.- Details in Pendeta Discovery
+440. Gesture recognition for communication through Malaysian sign language using Kinect / Fareen Riaz Qazi.- Details in Pendeta Discovery
+441. Gesture recognition of FAKIH method in Al-Quran recitation for deaf / Ahmed Nazim.- Details in Pendeta Discovery
+442. Graphical password system using scalable multi-grid method / Kianoush Farhat.- Details in Pendeta Discovery
+443. GRAT : groupware supported requirements analysis tool / Veleswaran a/l Nallaiah.- Details in Pendeta Discovery
+444. Grid portal for bioinformatics sequences alignment applications / Azlan Arifin.- Details in Pendeta Discovery
+445. Groupware support for nominal group technique / Diallo Mamadou Nabika.- Details in Pendeta Discovery
+446. Growth rate indicator of mobile phone usage based on the science and technology (S&T) development in Malaysia / Koh Yun Sing.- Details in Pendeta Discovery
+447. Guideline-based approach for improving the achievement of non-functional attributes of software / Malik H.M. Hneif.- Details in Pendeta Discovery
+448. Hardware based line segmentation for Jawi manuscript / Siti Hafizah binti Mohd Nasir.- Details in Pendeta Discovery
+449. A heuristic approach to predict Malaysian students academic performance / Ali Abdelwahab Nourein.- Details in Pendeta Discovery
+450. A hierarchical tree structure for National Archives of Malaysia web site / Mohamad Taha Ijab.- Details in Pendeta Discovery
+451. High capacity image steganography algorithm based on artificial neural network / Hamsah Ahmed Ghaleb Al-Jbara.- Details in Pendeta Discovery
+452. High-rise residential property management system using adapted CRM model / Wong Toh Ming.- Details in Pendeta Discovery
+453. High-speed shortest path co-processor design / Suraya Abu Bakar.- Details in Pendeta Discovery
+454. HMM-based emotional speech synthesis system for Malay as an under-resourced language with a cross lingual approach / Mumtaz Begum Mustafa.- Details in Pendeta Discovery
+455. Hop-by-hop QoS routing using statistical methods / Chan Siew Yin.- Details in Pendeta Discovery
+456. Hopfield model for shortest path computation and routing in ATM network / by Lee Chee Weng.- Details in Pendeta Discovery
+457. Human computer interaction approach in customer relationship management based on supplier perspective / Norhaily binti Azizan.- Details in Pendeta Discovery
+458. Human face detection from colour images based on multi-skin models, rule-based geometrical knowledge, and artificial neural network / Sinan A. Naji.- Details in Pendeta Discovery
+459. Human face recognition using principal component analysis / Atefeh Teymouri.- Details in Pendeta Discovery
+460. Human skin detection and articulated motion tracking for key frame extraction / Tan Wei Ren.- Details in Pendeta Discovery
+461. A hybrid approach for artificial immune recognition system / Mahmoud Reza Saybani.- Details in Pendeta Discovery
+462. Hybrid convergence analysis model for large-scale software projects / Vasuthevan Balakrishnan.- Details in Pendeta Discovery
+463. Hybrid expert system for diagnosis and treatment of heroin dependence / Yasmin binti Hj Mumtaz Ahmad.- Details in Pendeta Discovery
+464. Hybrid expert system for diasnosis and treatment of nicotine addiction / Era Syahida Mohidin- Details in Pendeta Discovery
+465. A hybrid framework documentation approach for effective use of object-oriented application framework documentation / Hajar binti Mat Jani.- Details in Pendeta Discovery
+466. A hybrid interaction architecture for mobile in-vehicle telematic system / Dalbir Singh.- Details in Pendeta Discovery
+467. Hybrid techniques of NTRU and AES for improving the security of electronic medical records / Alanazi, Hamdan Owaid R.- Details in Pendeta Discovery
+468. ICT integration in enhancing English language teaching and learning / Peterson @ Robinson a/l J. Samuel.- Details in Pendeta Discovery
+469. The identification of trust factor in electronic commerce usage / Mohd Sazili bin Shahibi.- Details in Pendeta Discovery
+470. Identifying leadership styles of IT project leaders using an interactive game / Huzienetta binti Hamdan.- Details in Pendeta Discovery
+471. Image acquisition and retrieval systems for leukaemia cells / Shobana Rajendran.- Details in Pendeta Discovery
+472. Image classification using optimized synergetic neural network / Ghazaleh Taherzadeh.- Details in Pendeta Discovery
+473. An image processing approach for cephalometric measurements / Mogeeb A. A. Mosleh.- Details in Pendeta Discovery
+474. An image steganography using texture analysis for high rate data hiding / Anas M. Hamid.- Details in Pendeta Discovery
+475. Imitation learning through self-exploration : rom eody-babbling to visuomotor Association / Farhan Dawood.- Details in Pendeta Discovery
+476. The impact of the internet on the library : usage patterns and perceptions of postgraduate students at the University of Malaya / Abdalla Barakat Elbakhiet.- Details in Pendeta Discovery
+477. Impact of web-based library service quality on user satisfaction and loyalty in Nigerian universities / Bala Haruna.- Details in Pendeta Discovery
+478. Implementation of a wifi-based location awareness system for multi-storey building / Tan Kit Huang.- Details in Pendeta Discovery
+479. The implementation of aspect-oriented requirements tool using Concern Space Modeling Schema / Aws Abed Alraheem Nayeif Magableh.- Details in Pendeta Discovery
+480. Implementation of creative-pad : a new creativity support tool / Narges Mahyar.- Details in Pendeta Discovery
+481. An implementation of differentiated services traffic conditioning with leaky bucket and token bucket / by Yew Wei Han.- Details in Pendeta Discovery
+482. Implementation of elliptic curve cryptography using biometric features to enhance security services / Yasser Salem Mohamed Ali.- Details in Pendeta Discovery
+483. The implementation of human computer interaction design principles in developing information access systems / Radiah bte Amin.- Details in Pendeta Discovery
+484. Implementation of median filter for songket / Hafiza bt. Ahmad.- Details in Pendeta Discovery
+485. An implementation of natural language user interface in smart home system / Ngoi Se Keng.- Details in Pendeta Discovery
+486. An implementation of pattern technology in enterprise application development / Rajendren a/l Subramaniam.- Details in Pendeta Discovery
+487. Implementation of secure medical record using smartcard technology / Jothi Prakash a/l Murugan.- Details in Pendeta Discovery
+488. Implementation of semantic web technologies in knowledge management of scholarly activities / Nwakego Ugochi Isika.- Details in Pendeta Discovery
+489. An implementation of video steganography system using the LSB method / Mohamed Elsadig Eltahir Ahmed.- Details in Pendeta Discovery
+490. Implementation of wireless security on virtual WiFi / Mohammad Yasin Arashpour.- Details in Pendeta Discovery
+491. Implementing an effective web based education system in Malaysian higher education institution : requirements, characteristics and tools / Kalai Selvi a/p Balasubramanian.- Details in Pendeta Discovery
+492. Implementing lightweight reservation protocol for mobile network using crossover router-pointer forwarding scheme / Yang Lina.- Details in Pendeta Discovery
+493. Implementing on-line information technology examination in Malaysian secondary schools / by Ahmad Termizi b. Mohd Yusof.- Details in Pendeta Discovery
+494. The implication of knowledge management in higher learning institution / Chua Lee Yang.- Details in Pendeta Discovery
+495. Improving deployment of dynamic honeypot in intrusion deception system by using passive fingerprinting / Hamid Mohammadzadeh Esfahani Nezhad.- Details in Pendeta Discovery
+496. Improving diagnosis of benign prostatic hyperplasia patients using computer based program / Iiev Rashid.- Details in Pendeta Discovery
+497. Improving document relevancy using explicit feedback / Kian Ahmadi.- Details in Pendeta Discovery
+498. Improving DSR routing protocol using TTL-based in Mobile Ad hoc Network (MANET) / Abubakar Bello Tambawal.- Details in Pendeta Discovery
+499. Improving effectiveness of information retrieval via text highlight / Yoganathan a/l Nagappan.- Details in Pendeta Discovery
+500. Improving online decision making process based on the ranking of user reviews and product features / Azra Shamim.- Details in Pendeta Discovery
+501. Improving QoS in WLAN using dynamic weighted fair scheduling / Ahmed Riza.- Details in Pendeta Discovery
+502. Improving search results using integrated implicit feedback / Zhang Xin Yue.- Details in Pendeta Discovery
+503. Improving search results using integrated stemming and lemmatization techniques / Ethel Lloyd Yemoh- Details in Pendeta Discovery
+504. Incorporating learning objects to improve acceptance of multimedia teaching tool / Wan Faizatul Shima binti Ismayatim.- Details in Pendeta Discovery
+505. Incorporating personalization to enhance usability of the website for higher education institution / Faduma Ali Nuradin.- Details in Pendeta Discovery
+506. Incorporating software agents in Personal Software Process (PSP) automated tool / Hazrina bt Hassan.- Details in Pendeta Discovery
+507. Increasing exposure of intrusion deception system through hybrid honeypot implementation / Masood Mansoori.- Details in Pendeta Discovery
+508. Incremental clustering-based facial feature tracking and emotion recognition using fuzzy reasoning model / Md. Nazrul Islam- Details in Pendeta Discovery
+509. Individual performance planning and measurement for academicians through the development of e-balanced scorecard (e-BSC) / Soo Hsaio Pei.- Details in Pendeta Discovery
+510. Information fusion of text and visual features for multi-modality medical information retrieval / Hizmawati Madzin.- Details in Pendeta Discovery
+511. Information literacy among secondary school students at fully residential schools in Kuala Lumpur / Nor Hashimah binti Hussain.- Details in Pendeta Discovery
+512. Information literacy in the workplace : perceptions and practices in academia / Jinadu Iliasu.- Details in Pendeta Discovery
+513. Information marketing of free-based services in academic libraries Sri Lanka / by Jayatissa Block.- Details in Pendeta Discovery
+514. Information needs and information seeking behavior of international students in Malaysia / Hajar Safahieh.- Details in Pendeta Discovery
+515. Information needs and information seeking behaviour at the Faculty of Medicine, the Sultan Qaboos University, Oman / Huda Sulaiman Al-Haddabi.- Details in Pendeta Discovery
+516. Information needs and information seeking behaviour of teacher educators in Sri Lanka / Kanthalingam Sathiyanathan.- Details in Pendeta Discovery
+517. Information needs and seeking behavior of male juvenile delinquents in Malaysian correctional schools / Ezza Rafedziawati Kamal Rafedz.- Details in Pendeta Discovery
+518. Information needs of academic staff at the University of Malaya in a digital environment / Harvinder Kaur a/p Bakhtawar Singh.- Details in Pendeta Discovery
+519. Information needs of children : an exploratory qualitative study / Mohan Palaniandy.- Details in Pendeta Discovery
+520. Information needs of foreign women in Malaysia, with special reference to the Sudanese community / Samia Mohamed Malik.- Details in Pendeta Discovery
+521. Information resources and use in the context of students' clothing activity / Sholeh Takht Kooseh- Details in Pendeta Discovery
+522. Information seeking behaviour of trainee teachers in selected teacher training colleges in the state of Johor / Ambikapathi Shanmugam.- Details in Pendeta Discovery
+523. Information seeking tool based on learning style / Nor Liyana binti Mohd Shuib.- Details in Pendeta Discovery
+524. An information system planning framework for e-governance in Bangladesh / Mohammed Mozammel Haque.- Details in Pendeta Discovery
+525. The information systems integration plan for MACRES' satellite remote sensing subsystems / Nurul Nuha Abdul Molok.- Details in Pendeta Discovery
+526. Information visualisation of Universiti Malaya campus in 3D virtual environment : navigation techniques / Nazrita Ibrahim.- Details in Pendeta Discovery
+527. Information visualization for UM library database / Shereena Mohd Arif.- Details in Pendeta Discovery
+528. An integrated approach for design rationale traceability through design patterns / Mohamed Lariani- Details in Pendeta Discovery
+529. An integrated approach for detecting human faces in color images / Ihab Salah Zaqout.- Details in Pendeta Discovery
+530. An integrated approach for face recognition / Bahram Sadeghi.- Details in Pendeta Discovery
+531. An integrated approach for simultaneous prioritization of functional and non-functional requirements / Mohammad Dabbagh.- Details in Pendeta Discovery
+532. An integrated framework to evaluate the satisfaction, acceptance and use of an e-learning system / Abdul Waris Saeed.- Details in Pendeta Discovery
+533. Integrated marketing system / Chin Wei Leong.- Details in Pendeta Discovery
+534. Integrated safety method for collision avoidance in vehicle AD-HOC networks / Rozita Aboki- Details in Pendeta Discovery
+535. An integrated tool for ranking and selecting research and development projects / Nor Hafizah binti Adnan.- Details in Pendeta Discovery
+536. An integrated web-based directory and e-commerce system for agriculture-based food cottage industry in Malaysia / Erma Naulia Astarina.- Details in Pendeta Discovery
+537. Integrating cognitive agents for problem-based learning in an IT environment / Akcell Chii Chung Chiang.- Details in Pendeta Discovery
+538. Integrating monitoring tools in improving history learning in lower secondary schools in Malaysia / Too Wei Chin.- Details in Pendeta Discovery
+539. Integrating multimedia into UM campus map using geographical information system / Nurul Azlia binti Mat Saat- Details in Pendeta Discovery
+540. Integrating multiple visual interface techniques in designing online help for web-based learning environment / Lau Lap Hang.- Details in Pendeta Discovery
+541. Integration of group decision support system and information retrieval : group decision informal retrieval / Lim Ghim Huay.- Details in Pendeta Discovery
+542. Integration of persuasive technique in 'speech pronunciation practice' system for children with speech disorders / Nurliza binti Abd Hamid.- Details in Pendeta Discovery
+543. Integrity of emergency messages over Vehicular Ad hoc Network using roadside unit / Eslam Tawfig Mohammed Tawfig.- Details in Pendeta Discovery
+544. Intelligent Bank Management Simulation system for Malaysian financial institutions (IBMS) / Mahadevan a/l Supramaniam.- Details in Pendeta Discovery
+545. Intelligent employment agent / Chan Chong Chiang.- Details in Pendeta Discovery
+546. Intelligent fault management using cost sensitive fault remedial approach / Sunthari Solaimalai.- Details in Pendeta Discovery
+547. Intelligent methods for automatic classification of medical images / Mohammad Reza Zare.- Details in Pendeta Discovery
+548. Intelligent multimedia help system for arithmetic (ARITHELP) / Noor Lees Ismail.- Details in Pendeta Discovery
+549. Intelligent question bank and examination system / Hu Heng Siew.- Details in Pendeta Discovery
+550. Intelligent tutoring system for mathematics vector VECITS / Zaidah Abu Bakar.- Details in Pendeta Discovery
+551. Interactive learning through online asynchronous discussion / How Men Mee.- Details in Pendeta Discovery
+552. Interactive particle swarm optimization for robot emotional speech with reduced fatigue / Zhong Long.- Details in Pendeta Discovery
+553. An interactive web-based system for people with dementia / Negar Namazi Esfahani.- Details in Pendeta Discovery
+554. Interface design for real-time collaborative editing tool for small scale project planning / Nurul Naslia binti Khairuddin.- Details in Pendeta Discovery
+555. Internet information server scanner : scanning on URL vulnerabilities / Tan Yu Jin.- Details in Pendeta Discovery
+556. Interoperable e-government in Malaysia : a framework for transparent public delivery system / by Hayati Harudin.- Details in Pendeta Discovery
+557. An interpretable fuzzy-ensemble method for classification and data analysis / Adel Lahsasna.- Details in Pendeta Discovery
+558. Invariant pattern recognition using higher order neural networks / S. Sivaguru.- Details in Pendeta Discovery
+559. Invariants generation for method overriding using abstract interpretation / Siti Hafizah Ab. Hamid.- Details in Pendeta Discovery
+560. Investigating fuzzy triangle relational products / NasrEddine Hallam.- Details in Pendeta Discovery
+561. Investigating information seeking anxiety among postgraduate students : development and validation of a multidimensional scale / Mohammadamin Erfanmanesh.- Details in Pendeta Discovery
+562. Investigating the perceived usefulness and effectiveness of information literacy skills training program at University of Malaya Library / Adamu Mohammed.- Details in Pendeta Discovery
+563. Investigation and design of mobile OPAC services for non-smartphone users / Hemalata a/p Vasudavan.- Details in Pendeta Discovery
+564. An investigation in the use of neural-fuzzy applications for access control using response-time as personalised signatures / Elok Robert Tee.- Details in Pendeta Discovery
+565. Investigation of evolutionary multi-objective algorithms in solving view selection problem / Seyed Hamid Talebian- Details in Pendeta Discovery
+566. Investigation of factors for the adoption of e-government in the Iraqi Embassy / Nisrin Talib Jabir.- Details in Pendeta Discovery
+567. An investigation of factors influencing the acceptance of open access publishing among medical researchers in Iran / Leila Khalili.- Details in Pendeta Discovery
+568. An investigation of health information system security policies compliance behaviour / Norshima Humaidi.- Details in Pendeta Discovery
+569. An investigation of Web 2.0 use in Malaysian public libraries / Mohd Ismail bin Abidin.- Details in Pendeta Discovery
+570. The involvement of parents in developing reading skills and temperament among preschool children : a case study in Johor Bahru / Soo Mee Chee- Details in Pendeta Discovery
+571. An IPv6 mobility management scheme using mobility server and crossover point / Koh Chee Hong.- Details in Pendeta Discovery
+572. IS skills for IT professionals in Malaysia / Murugan a/l Nadarajah.- Details in Pendeta Discovery
+573. Isolated digit speech recognition in Malay language using neuro-fuzzy approach / Reem Sabah Ahmed.- Details in Pendeta Discovery
+574. Isolated Malay speech recognition using Hidden Markov models / Fadhilah Rosdi.- Details in Pendeta Discovery
+575. Issue management system in software development / Lee Siew Chen.- Details in Pendeta Discovery
+576. Issues in implementing IPv6 in the x-kernel simulator / Raja Singam Thillainathan.- Details in Pendeta Discovery
+577. Issues in security support services and performance analysis on security association in ATM network topologies / Cheong Wai Hon.- Details in Pendeta Discovery
+578. IT Training Recommender System Using Pearson Correlation Algorithm / Chandrakala Krishnan.- Details in Pendeta Discovery
+579. Iterative matching on multi-dimensional case-based reasoning system for negotiation / Chew Esyin.- Details in Pendeta Discovery
+580. A Java source code analyzer and visualizer for documentation and reuse of object oriented programming / Ali Bonakdar.- Details in Pendeta Discovery
+581. Journal of the Malaysian branch of the Royal Asiatic Society (JMBRAS) 1987-1996 : a bibliometric study / Tiew Wai Sin.- Details in Pendeta Discovery
+582. Kajian keberkesanan penggunaan Portal Perpustakaan UMLib di kalangan pelajar-pelajar Fakulti Sains, Universiti Malaya / Halimah binti Abas.- Details in Pendeta Discovery
+583. Kajian mengenai penggunaan mod pencarian kata kunci (keyword searching) di kalangan pengguna-pengguna OPAC di Perpustakaan Universiti Malaya / Roslina Suratnu.- Details in Pendeta Discovery
+584. Kajian penggunaan internet dalam perkhidmatan gunasama perpustakaan, di bawah pengawasan Perpustakaan Negara Malaysia / Hasnita bt. Hj. Ibrahim.- Details in Pendeta Discovery
+585. Kajian perbandingan antara WAP dan i-Mode / Jetol binBolongkikit.- Details in Pendeta Discovery
+586. Kajian perlaksanaan literasi maklumat dalam kerja kursus sekolah menggunakan kaedah sistem lembut / Roslina binti Suratnu.- Details in Pendeta Discovery
+587. Kajian susulan graduan Sarjana Sains Maklumat dan perpustakaan (MLIS) dari Fakulti Sains Komputer dan Teknologi Maklumat Universiti Malaya, 1997-2001 / Siti Suzana binti Abdul Rahman.- Details in Pendeta Discovery
+588. Kajian tentang persepsi pelajar terhadap mata pelajaran teknologi maklumat di sekolah-sekolah menengah Lembah Kelang / Shaharni Adlina binti Hamidon.- Details in Pendeta Discovery
+589. Kajian terhadap sistem persembahan multimedia untuk aplikasi pendidikan / Mohd. Azul bin Mohamad Salleh.- Details in Pendeta Discovery
+590. Keberkesanan penggunaan laman web Perpustakaan Universiti Malaya di kalangan kakitangan akademik / Norhamimi Othman.- Details in Pendeta Discovery
+591. Keperluan dan tabiat pencarian maklumat di kalangan pengamal perubatan di HUKUM / Mohd. Abdul Hafiz B. Md. Radzi.- Details in Pendeta Discovery
+592. Keperluan latihan di kalangan penyelaras pusat sumber sekolah di zon tengah Semenanjung Malaysia / Noor Azizah Ahmad.- Details in Pendeta Discovery
+593. Keperluan maklumat wartawan : bagaimana wartawan menggunakan perpustakaan / Mohd Azlee bin Abd. Aziz.- Details in Pendeta Discovery
+594. A key and certificate management for mobile MMS encryption system / Daryoush Naghneh Abbaspour.- Details in Pendeta Discovery
+595. Key frame analysis by dynamic threshold / Adrian Tan Kai Thern.- Details in Pendeta Discovery
+596. Key management for secure group communication in a wireless environment / Babak Daghighi.- Details in Pendeta Discovery
+597. A keypoint based copy-move forgery detection and localization in digital images / Somayeh Sadeghi.- Details in Pendeta Discovery
+598. K-kuiz : sistem kuiz kolaboratif / Shamsul bin Saniron.- Details in Pendeta Discovery
+599. KLIA a virtual walkthrough system / Su Rames Suppiah.- Details in Pendeta Discovery
+600. Knowledge design in rule-based system architecture for C tutorial / V. Thavachelvi a/p Velautham.- Details in Pendeta Discovery
+601. Knowledge management at National Library of Malaysia / Jamaliah bt. Mohd Nayan.- Details in Pendeta Discovery
+602. Knowledge management framework for Faculty of Computer Science and Information Technology, University of Malaya / Vijayan Venggadasallam.- Details in Pendeta Discovery
+603. A knowledge management model to enhance the awareness level of common childhood infectious illnesses among parents / Nur Azlili binti Othman.- Details in Pendeta Discovery
+604. A knowledge management system for industrial training / Mohamed Almojtaba Adil Abdalazez.- Details in Pendeta Discovery
+605. A knowledge management system for primary health facilities / Ahmed Khalfan Salim Al-Qasmi.- Details in Pendeta Discovery
+606. Knowledge management system for tourist information counter / Hamidah bte Ahmad.- Details in Pendeta Discovery
+607. A knowledge management system to share business process reengineering in ERP implementation / Ahmed Qasem Abdullah.- Details in Pendeta Discovery
+608. Knowledge management system using student-as-customer approach / Mohammed Abdul Kareem Barjas.- Details in Pendeta Discovery
+609. Knowledge sharing in Malaysian Armed Forces Pay Directorate through a knowledge management system / Nor Mazlizzah Seet bte Abdullah.- Details in Pendeta Discovery
+610. A knowledge sharing system for the implementation of ERP in SMEs / Ali Noudoost Beni.- Details in Pendeta Discovery
+611. K-RIMA : a knowledge based system for RIMA college / Thilageshvaan a/l Muniandy.- Details in Pendeta Discovery
+612. K-workspace system to support collaborative learning and knowledge building / Mahathir bin Yusof.- Details in Pendeta Discovery
+613. Learning alphabets in Malaysian sign language / Preet Kaur a/p Harbhhajan Singh.- Details in Pendeta Discovery
+614. Learning customers purchasing behaviour through online games / Mohammad Sadegh Ghasemi.- Details in Pendeta Discovery
+615. Learning Form 1 fractions through computer games / Mohana Sunthari a/p S. Muthu Krishnan.- Details in Pendeta Discovery
+616. Learning introductory programming using Game-Based Learning (GBL) tool / Naline Shanmugam.- Details in Pendeta Discovery
+617. A learning materials recommender system using vector space model and good learners' ratings / Khairil Imran bin Ghauth.- Details in Pendeta Discovery
+618. Leave management system / Lee Su Teng.- Details in Pendeta Discovery
+619. Legal deposit of electronic publications : Perpustakaan Negara Malaysia's experience / Shahrozat binti Ibrahim.- Details in Pendeta Discovery
+620. Level set segmentation of MR images for extraction of femur bone and tissues / by Christina Shanti Nayagam.- Details in Pendeta Discovery
+621. Library and information services for distance education in Malaysia / Chew Pang Hee.- Details in Pendeta Discovery
+622. Library Anxiety Among Medical Students at Private University College Library / Noor Rashidalila binti Ab Rashid.- Details in Pendeta Discovery
+623. Library services for visually impaired persons in Malaysia / Pak Say Wah.- Details in Pendeta Discovery
+624. Library use and information needs of young adults : an exploratory study / Yap Gar Wai @ Heap Gar Wai.- Details in Pendeta Discovery
+625. A lightweight algorithm for partitioning elastic mobile application in mobile cloud computing / Liu Jie Yao- Details in Pendeta Discovery
+626. A lightweight framework for intensive mobile application processing in mobile cloud computing / Muhammad Shiraz.- Details in Pendeta Discovery
+627. Lightweight robust watermarking for digital images using multiple domains / Thiba a/p Narasimha Bharatheyar.- Details in Pendeta Discovery
+628. A lightweight tool for project monitoring using earned value management / Somasundaram Athappan.- Details in Pendeta Discovery
+629. LiSER : a prototype for an organisational memory system supported by an ontology-based knowledge model and organisational learning framework for software experience management / Abdulmajid Hissen Mohamed.- Details in Pendeta Discovery
+630. Load balancing and congestion control in ATM using fuzzy logic and spiking neuron network / Tan Jiann Shin.- Details in Pendeta Discovery
+631. Location and recency of developers' activities in a noun-based approach to improve automatic bug assignment / Ramin Shokripour- Details in Pendeta Discovery
+632. Location aware system using bluetooth technology / Ganes Raj Muthu Arumugam.- Details in Pendeta Discovery
+633. Location aware system using mobile station in GSM network / Abdul Mueed Khalid.- Details in Pendeta Discovery
+634. Location determination using IEEE802.11 network radio signals and deterministic algorithm / by Amirhossein Malekpour Koupaei.- Details in Pendeta Discovery
+635. Low-cost evaluation methods for information retrieval systems using forecasting techniques / Shiva Imani Moghadasi.- Details in Pendeta Discovery
+636. Magnetic resonance image search database system using active shape modeling technique / by Jayanthy Maniam.- Details in Pendeta Discovery
+637. Magnetic resonance image segmentation using wavelet transform and self-organizing maps / Woo Chaw Seng.- Details in Pendeta Discovery
+638. A Malay language stemmer : exhaustive application of affix rules and a Malay word register to resolve stemming errors and reduce ambiguity / alhana binti Amad Darwis.- Details in Pendeta Discovery
+639. Malay language text-to-speech synthesiser / Loo Wai Keong.- Details in Pendeta Discovery
+640. A Malay speech acoustic model for the visually impaired incorporating relevance speech attributes / Yasmoon Aziyati Ahmad.- Details in Pendeta Discovery
+641. Malay speech to Jawi text engine / Zaini Arifah Othman.- Details in Pendeta Discovery
+642. Malaysian biomedical and health sciences publications in the ISI database, 1990 to 2005: a bibliometric study / Hazmir bin Hj Zainal.- Details in Pendeta Discovery
+643. Malaysian e-government implementation framework / Roslind Kaur.- Details in Pendeta Discovery
+644. Malaysian publication contributions to the field of library and information science / Norhazwani Yazit.- Details in Pendeta Discovery
+645. Malaysian web search engines : a comparative study / Hananzita Halim.- Details in Pendeta Discovery
+646. Management of course portfolios through a smart e-portfolio system / Gassan Abu Jumra Alsyad.- Details in Pendeta Discovery
+647. The management of Teacher Activity Centres (TACs) : a case study of selected centres in Sabah, Malaysia / Jennifer Anjik.- Details in Pendeta Discovery
+648. Managing and sharing of drilling data using grid technology / Miftah Arfan bin Said.- Details in Pendeta Discovery
+649. Managing departmental knowledge through an open source E-portal / Gan See Leng.- Details in Pendeta Discovery
+650. Managing information system security compliance by setting controls over documents / Sathish Kumar Rajaratnam.- Details in Pendeta Discovery
+651. Man-made object detection using texture analysis and hough transform technique / Ma'ath S. Abdul Ghafoor.- Details in Pendeta Discovery
+652. Mapping of examination questions towards learning outcome statement using ontological structure & reasoner / Lalitha a/p K. Loganathan.- Details in Pendeta Discovery
+653. Master's computer science advisory system (MCSAS) / Abdellatif M. Abualaid.- Details in Pendeta Discovery
+654. Material classification of magnetic resonance images using neural fuzzy technique and fuzzy neural technique / by Mangalam Sankupellay.- Details in Pendeta Discovery
+655. A measurement tool for website performance / Low Pek Ling.- Details in Pendeta Discovery
+656. Measuring software usability through web-based evaluation / Normaiza Mohamad.- Details in Pendeta Discovery
+657. Measuring the performance of library and information services in Universiti Tenaga Nasional Library / Roslah binti Johari.- Details in Pendeta Discovery
+658. Measuring the quality of software deliverables using software traceability approach / Ali Afsharmohajer.- Details in Pendeta Discovery
+659. Medical image segmentation by hybridizing multi-agent system and reinforcement learning agent / Mahsa Chitsaz.- Details in Pendeta Discovery
+660. MEdusoft : managing education software in Malaysian primary school / Sumathi a/p Chandran.- Details in Pendeta Discovery
+661. Mekanisme pengemaskinian polisi keselamatan firewall dengan pendekatan sistem pengesan pencerobohan dan multicast / Nor Badarul Anuar Juma'at.- Details in Pendeta Discovery
+662. Mel-frequency cepstrum coefficient-vector quantization speech recognition for tajweed rule checking / Ahsiah binti Ismail- Details in Pendeta Discovery
+663. Merekabentuk alat pembina laman web untuk kanak-kanak = (designing a web page construction kit for children) / Ag. Asri bin Ag. Ibrahim.- Details in Pendeta Discovery
+664. A metacognitive support environment for novice programmer using semantic web / Siti Nurulain Bt Mohd Rum.- Details in Pendeta Discovery
+665. A metrics tool for requirements specification based on use case diagram / Lam Woon Yee.- Details in Pendeta Discovery
+666. Middleware for internet business applications (MIBA) using messaging approach / Azniza Subkey.- Details in Pendeta Discovery
+667. Minimizing number of transits in ship routing using hybrid genetic algorithm / Nur Iksan- Details in Pendeta Discovery
+668. Minimizing of wireless handoff delay by using fine-tuning interval rate / Amir Hossein Zarrinnegar.- Details in Pendeta Discovery
+669. Mitigation of shoulder-surfing attack on picture-based passwords using falsifying authentication methods / Por Lip Yee.- Details in Pendeta Discovery
+670. MMS spam filter for pornographic images using skin detection / Aina bt Mohd Ali @ Umar.- Details in Pendeta Discovery
+671. A mobile augmented reality application for advertising / Chua Hiang Kiat.- Details in Pendeta Discovery
+672. Mobile cloud computing for smartphones : application development model and application piracy control / Atta Ur Rehman Khan.- Details in Pendeta Discovery
+673. Mobile messaging using public key infrastructure : M-PKI / Lai Ngan Kuen.- Details in Pendeta Discovery
+674. A mobile requirements elicitation tool to support ethnographic technique / Sheyda Shahidi.- Details in Pendeta Discovery
+675. A model of compliance on the quality system for software industry by ISO 9000 -3 / Burhani Amirudin.- Details in Pendeta Discovery
+676. A model to improve bandwidth consumption and resource usage in GPS-based wireless network / Amirhossein Moravejosharieh.- Details in Pendeta Discovery
+677. Modeling an information literacy programme for undergraduates : a soft systems methodology approach / Nor Edzan binti Haji Che Nasir.- Details in Pendeta Discovery
+678. Modeling software requirements on visualization of al-Quran system / Haji Irwan Mashadi Haji Mashud.- Details in Pendeta Discovery
+679. A modified framework of collapsible cylindrical trees for visualizing and retrieving learning objects / Zellal Bathich.- Details in Pendeta Discovery
+680. MPLS VPN simulation using MP-iBGP / Ang Tan Fong.- Details in Pendeta Discovery
+681. Multi-area QoS provisioning using hierarchical bandwidth brokers architecture / Lim Gek Pei.- Details in Pendeta Discovery
+682. Multihop decentralized cluster-based routing protocol for wireless sensor networks / Sepideh Zareei.- Details in Pendeta Discovery
+683. A multi-layer dimension reduction algorithm for text mining of news in forex / Arman Khadjeh Nassirtoussi.- Details in Pendeta Discovery
+684. A multi-layered adaptation technique for recognizing malay impaired speech / Feisal Dani Rahman- Details in Pendeta Discovery
+685. Multi-level automatic medical image annotation / Ahmed Mueen.- Details in Pendeta Discovery
+686. Multimedia development of Arabic CALL / by Sabri Khalifa Mansur.- Details in Pendeta Discovery
+687. A multimedia learning package of mathematics for standard four students / Christina Rajakumari.- Details in Pendeta Discovery
+688. Multimedia-based Malaysian sign language electronic dictionary in Malay language instruction / Siti Nurani binti Saadul Baharim.- Details in Pendeta Discovery
+689. Multiple intelligences e-portfolio system for higher learning / Suhailey Mat Sidek.- Details in Pendeta Discovery
+690. Multi-threading technique for authorization of credit card system using .Net and Java / Wong Yew Ming.- Details in Pendeta Discovery
+691. My analyser : a handwriting analysis system for career guidance / Teh Kean Siang.- Details in Pendeta Discovery
+692. MySLang : a computer-aided Malaysian sign language dictionary with instructions in Myanmar language / Thet Thet Win.- Details in Pendeta Discovery
+693. MySlang : an electronic Malaysian sign language dictionary / Lim Mei Yen.- Details in Pendeta Discovery
+694. Needleman-Wunsch and Smith-Waterman implementation for SPAM/UCE inline filter / Chiew Ming Thong.- Details in Pendeta Discovery
+695. Network simulation and performance evalution of IP multicast using PIM-DM in UMJaNetSim / by Teoh Jui Hiangh.- Details in Pendeta Discovery
+696. Network simulation and performances evaluation of IP multicast using MOSPF in UMJaNetSim / by Mok Wai Hon.- Details in Pendeta Discovery
+697. Network traffic engineering using linear regression approach / Vathsala Devi d/o Kunalan.- Details in Pendeta Discovery
+698. Neuro-genetic model for the projection of crude oil price capable of handling uncertainty / Haruna Chiroma.- Details in Pendeta Discovery
+699. A new algorithm for graphical user authentication based on rotation and resizing / Atash Habibi Lashkari.- Details in Pendeta Discovery
+700. A new approach in e-learning for mathematics / Yii Hee Ling.- Details in Pendeta Discovery
+701. A new bluetooth service-level security protocol / by Fathi Taibi.- Details in Pendeta Discovery
+702. Nonlinear active contour model for medical image segmentation / Norshaliza binti Kamaruddin.- Details in Pendeta Discovery
+703. A novel passive 3D reconstruction evaluation technique based on Scale-Invariant Feature Transform (SIFT) feature extraction / Aburasain Rua Yahya A.- Details in Pendeta Discovery
+704. Numbering technique and drag-and-drop interaction style as a computer based intervention to support the concept of reading for children with autism / Nur Izzaidah binti Abdull Zubi.- Details in Pendeta Discovery
+705. Numbering technique and point-and-click interaction style to support the readability of Quran for children with hearing impairment / Nafiseh Alaghehband Ghadim.- Details in Pendeta Discovery
+706. Object detection in 3D reconstructed environment using hierarchical growing neural gas / Parham Nooralishahi- Details in Pendeta Discovery
+707. Object recognition using locally competitive algorithm / Ali Memariani.- Details in Pendeta Discovery
+708. Object-based simulators for large scale distributed virtual environment / Elfizar.- Details in Pendeta Discovery
+709. Object-oriented application framework for statistical process control in manufacturing domain / Liu Hong Song.- Details in Pendeta Discovery
+710. An object-oriented data automation system for Microsoft Excel files / Ng Lee Yean.- Details in Pendeta Discovery
+711. Object-relational mapping for data model management / Rihaab Fathi.- Details in Pendeta Discovery
+712. Objects-to-multivalued database mapping for facilitating multivalued database applications development / Wei Fuguo.- Details in Pendeta Discovery
+713. Old Jawi manuscript : digital recognition / Zaidi bin Razak.- Details in Pendeta Discovery
+714. OLPC : constructionist approach of interactive mathematics game interface for kids in Malaysia / Omar Ahmed Mohammed Ba-Suliman.- Details in Pendeta Discovery
+715. On demand bandwidth allocation using PMP mode for WiMAX network / Sun Zhen Tao.- Details in Pendeta Discovery
+716. On the prevalence of communication and english language anxieties as possible antecedents of library anxiety / Janaki Sinnasamy- Details in Pendeta Discovery
+717. An online academic document management system / Hediyeh Baban.- Details in Pendeta Discovery
+718. An on-line decision support system for retail chain store / Fadi Moh'd Salim Shrouf.- Details in Pendeta Discovery
+719. Online non-cursive jawi character recognition system / Nor'aiza Ahmad.- Details in Pendeta Discovery
+720. Online postgraduate course registration and payment system at FSKTM, UM / See Chun Kiat.- Details in Pendeta Discovery
+721. An online system to manage continuous assessment for Malaysian upper secondary school / Mohammed AlMurtada Sabr Abdelhadi.- Details in Pendeta Discovery
+722. Ontology driven system for conference participation / Mariam K. Abdul Aziz.- Details in Pendeta Discovery
+723. Ontology-based approach for resolving semantic schema conflicts in the integration of semi-structured data sources / Abdolreza Hajmoosaei.- Details in Pendeta Discovery
+724. An ontology-based approach for test case management system using semantic technology / Mansoor Abdullateef Abdulgabber Abdulhak.- Details in Pendeta Discovery
+725. OOADitor : a case tool for object-oriented analysis and design / Augustina Aegidius Sitiol.- Details in Pendeta Discovery
+726. Operating system multimedia presentation (OSMP) / Ida Adyani binti Hamzah.- Details in Pendeta Discovery
+727. Optimal sensor placement in heterogeneous visual sensor network / Hadis Zardpour.- Details in Pendeta Discovery
+728. Optimisation of a multicast routing protocol using genetic algorithms with QoS constraints in mobile Ad-Hoc networks / Noor Mohammed Asraf.- Details in Pendeta Discovery
+729. Optimised hierarchical scheduling and replication strategy using network virtualisation / Punithevalli Nyanasagaran.- Details in Pendeta Discovery
+730. Optimization of Arabic Speech Recognition for Non-Native Speakers Using Diverse Training Corpora / Amirul Mohamad Khairi bin Mannan.- Details in Pendeta Discovery
+731. Optimization of Ship Routing using Hybrid Genetic Algorithm / Ismail.- Details in Pendeta Discovery
+732. Optimization of transportation routes using transportation and logistics decision support systems (DSS) / Ramin Vakilian.- Details in Pendeta Discovery
+733. Optimized-memory map-reduce algorithm for mobile learning on android platform / Mamo Muhamad Husain- Details in Pendeta Discovery
+734. Optimizing product recommendation model in e-commerce / Ali Poulad.- Details in Pendeta Discovery
+735. Optimizing throughput based on adaptive modulation scheme using Signal-to-Noise Ratio (SNR) in Vehicular Ad Hoc Network / Chembe Christopher.- Details in Pendeta Discovery
+736. Organisasi bahagian pengkatalogan/pemerosesan teknikal : pelaksanaan masa kini di Malaysia / Shahizan Affandi bin Zakaria.- Details in Pendeta Discovery
+737. The organization and access to digitized Malay manuscripts : creating a digital library using greenstone / Mohd Hilmi bin Md Rifin.- Details in Pendeta Discovery
+738. PAED : a paediatric drug prescription and inventory monitoring system / Tin Yeo Gaik Ling.- Details in Pendeta Discovery
+739. Palmtop usage for Jawi application in preschool education / by Ismassabah binti Ismail.- Details in Pendeta Discovery
+740. A parallel coordinates technique in text visualisation / Abed Almoniem Mamdouh Asad Alasad.- Details in Pendeta Discovery
+741. A parallel distributed Javaspaces implementation of RSA public key factorization using quadratic sieve / by Lau Khek Hooi.- Details in Pendeta Discovery
+742. Parallel visualization of a 3D heart model in an heterogeneous computing environment / Kalpana a/p Kanthasamy.- Details in Pendeta Discovery
+743. Parallelization of molecular dynamics program in a grid computing environment / Khawaja Mohammad Ali Qamar.- Details in Pendeta Discovery
+744. A parking management system using service science, management and engineering (SSME) approach / Ayad A. Yass.- Details in Pendeta Discovery
+745. Partitioned opportunistic routing in wireless sensor networks / Tanyar Pooyeh- Details in Pendeta Discovery
+746. Pembangunan alat perisian metrik untuk rekabentuk berstrukur persekitaran intranet/web / Azizi bin Abdullah.- Details in Pendeta Discovery
+747. Pembangunan model penerimaan dan penggunaan Ekhidmat Awam berdasarkan UTAUT / Mohd Khalit Bin Othman.- Details in Pendeta Discovery
+748. Pembangunan peralatan bagi menyokong metodologi permodelan analisis berdaya maju / Azmi bin Md. Amin.- Details in Pendeta Discovery
+749. Pembinaan perisian pemeriksaan dan pemantauan kerja-kerja penyenggaraan bangunan / Mohd Al-Hafiz Ahmad.- Details in Pendeta Discovery
+750. Pendarab titik apungan 32bit bertalian paip / Noorzaily Mohamed Noor.- Details in Pendeta Discovery
+751. Penerbitan jurnal ilmiah di Malaysia / Norishah binti Mat Din.- Details in Pendeta Discovery
+752. Pengenalpastian amaran palsu positif menggunakan perlombongan data dan pepohon keputusan / Hasimi Sallehudin.- Details in Pendeta Discovery
+753. Penggunaan Internet dalam pencarian maklumat di kalangan pelajar-pelajar Indonesia di Malaysia / Marlini.- Details in Pendeta Discovery
+754. Penggunaan internet dalam pengajaran dan pembelajaran di Sek. Men. Keb. Damansara Jaya / Nor Hazidah Bt Awang.- Details in Pendeta Discovery
+755. Penggunaan internet di kalangan pelajar-pelajar Akademi Pengajian Islam Universiti Malaya / Efarizan binti Shah Malek.- Details in Pendeta Discovery
+756. Penggunaan komputer di kalangan pelajar-pelajar sekolah menengah di negeri Kelantan / Adlina Norliz Razali.- Details in Pendeta Discovery
+757. Penggunaan sumber elektronik di kalangan pelajar-pelajar Fakulti Pendidikan Universiti Malaya / Azlina Binti Mohd Yazid.- Details in Pendeta Discovery
+758. Penggunaan sumber maklumat elektronik oleh pelajar Ijazah Sarjana Muda Doktor Perubatan di Perpustakaan Hospital UKM / Azlan bin Mohamad Hamzah.- Details in Pendeta Discovery
+759. Penulisan ilmiah dalam bidang kesusasteraan Melayu : satu kajian bibliometrik terhadap Majalah Dewan Sastera / Rohaya Binti Haji Harith.- Details in Pendeta Discovery
+760. Penvisualan maklumat bagi pelan strategik / Muzaffar bin Hamzah.- Details in Pendeta Discovery
+761. Peranan pengetua dalam membangunkan pusat sumber sekolah : (tumpuan kepada sekolah menengah harian di Negeri Selangor / Siti Hadijah bt. Alwi.- Details in Pendeta Discovery
+762. Peranan perpustakaan sekolah di dalam mempengaruhi minat membaca : kajian kes persepsi guru dan ibu bapa di Sumatera Utara, Indonesia / oleh Muhamad Sukran.- Details in Pendeta Discovery
+763. Peranan pusat sumber sekolah (PSS) dalam mempromosikan gerakan tabiat membaca di bawah Program NILAM / Padlon binti Abdul Rahman.- Details in Pendeta Discovery
+764. Performance analysis of data replication in data grid / Wong Yuk Key.- Details in Pendeta Discovery
+765. Performance analysis of string pattern matching algorithms / Por Lip Yee @ Por Khoon Sun.- Details in Pendeta Discovery
+766. Performance comparison of routing protocols for adhoc networks / by Lau Phooi Yee.- Details in Pendeta Discovery
+767. Performance enhancement framework for cloudlet in mobile cloud computing / Md Whaiduzzaman.- Details in Pendeta Discovery
+768. Performance evaluation between Tahoe, Reno and New Reno congestion algorithms / Seow Chen Siong.- Details in Pendeta Discovery
+769. Performance evaluation of compression techniques on scientific dataset / Lam Wai Leong.- Details in Pendeta Discovery
+770. Performance of real-time financial database system / Rajakumar a/l Somasundaram.- Details in Pendeta Discovery
+771. Performance testing tool for e-commerce applications / Priyadharshini Thirumalai.- Details in Pendeta Discovery
+772. Perlaksanaan VHDL bagi rekabentuk perkakasan khas penukarganti di skrit wavelet / Zaidi Razak.- Details in Pendeta Discovery
+773. Persepsi guru-guru di daerah Petaling Selangor Darul Ehsan terhadap keberkesanan Pusat Kegiatan Guru / Cheeah Halimah binti Abd. Talib.- Details in Pendeta Discovery
+774. Persistence framework for multiple legacy databases of patient information systems / Khor Chin Heong.- Details in Pendeta Discovery
+775. Persistency for web-based feed reader / Philip Yeo Chin Poh.- Details in Pendeta Discovery
+776. Personal Islamic asset management system using object-oriented approach / Nor Fazlina Iryani binti Abdul Hamid.- Details in Pendeta Discovery
+777. PL-analyser : a personality traits and leadership styles analysis system / Ramanathan Murugappan.- Details in Pendeta Discovery
+778. PMAFw : an object-oriented application framework intergrated environment for production management application development / Thin Siew Khim.- Details in Pendeta Discovery
+779. A port knocking authentication method for mobile cloud computing / Laleh Boroumand Jazi- Details in Pendeta Discovery
+780. Postgraduate dissertation e-tracker : a student research progress tracking tool / Wong Loo Woon.- Details in Pendeta Discovery
+781. Predicting the outcomes of football matches using machine learning techniques / Usman Haruna- Details in Pendeta Discovery
+782. Predicting the survivability of links in an ad hoc network / Lim Vivi.- Details in Pendeta Discovery
+783. A predictive pricing model for efficient resource allocation in cloud / Vahid Maleki Raee- Details in Pendeta Discovery
+784. Preventing shoulder-surfing attack using image password concealing scheme / Ho Peng Foong- Details in Pendeta Discovery
+785. Problem analysis tool for novice programmers / Azinah Mohd Zain.- Details in Pendeta Discovery
+786. Process state synchronization for mobility support in mobile cloud computing / Ejaz Ahmed.- Details in Pendeta Discovery
+787. Project documentation tool / Jayasaegaran Sithambaram.- Details in Pendeta Discovery
+788. Protocol simulation and performance evaluation of PIM-SM using UMJaNetSim. by Lim Khong Leng.- Details in Pendeta Discovery
+789. A proxy-assisted routing for efficient data transmission in mobile ad hoc networks / May Zin Oo.- Details in Pendeta Discovery
+790. Publication productivity and citation analysis of the Medical Journal of Malaysia : 2004-2008 / Sanni, Shamsudeen Ademola.- Details in Pendeta Discovery
+791. QoE prediction model for multimedia services in intelligent transport system / Oche Michael.- Details in Pendeta Discovery
+792. QoS support for IPTV services in VANET / Oche Micheal.- Details in Pendeta Discovery
+793. A qualitative reasoning framework for the simulation of S[N]1 and S[N]2 mechanisms in organic reactions / Tang Yee Chong.- Details in Pendeta Discovery
+794. Quality of service in grid computing / by Chow Shee Onn.- Details in Pendeta Discovery
+795. Query proof structure caching for incremental evaluation of tabled PROLOG programs / Muhammad Taher Ali.- Details in Pendeta Discovery
+796. A questionnaire-based tool for user interface evaluation / Thiruchelvam Rajagopal.- Details in Pendeta Discovery
+797. Rail ticketing dialogue using HMM-based speech recognition / Tan Fung Ling.- Details in Pendeta Discovery
+798. Rapid application development toolkit for persistence framework-based web application development / Choo Choon How.- Details in Pendeta Discovery
+799. A real time simulation and modeling of flood hazards in Kuala Lumpur / Jasrul Nizam Ghazali.- Details in Pendeta Discovery
+800. Real-time hand gesture recognition system using neural network / Herman Khalid Omer- Details in Pendeta Discovery
+801. Real-time Performance Metrics Evaluator for E-Commerce Site / Mansoureh Soroush.- Details in Pendeta Discovery
+802. Redefining architecture of game engines through utilization of concurrency / Ali Mohebali.- Details in Pendeta Discovery
+803. Redesign of the user interface of a web-based adaptive quiz system / Mo'ath Zaid Abedalziz Obeidat.- Details in Pendeta Discovery
+804. Reducing cognitive load using concept maps / by Sorayya Malek.- Details in Pendeta Discovery
+805. Reducing handoff delay in WLAN using selective proactive context caching / Lee Jen Funn.- Details in Pendeta Discovery
+806. Reducing layer two handoff latency in WLANs using advanced context distribution / Laeth A. AbdulWahid.- Details in Pendeta Discovery
+807. Reengineering the software development process using workflow management system / Yogeswari Jayaraman.- Details in Pendeta Discovery
+808. Rejuvenation of Softmatch toolkit using reengineering technique / Rahma A. Kamaludeen.- Details in Pendeta Discovery
+809. Reka bentuk grafik untuk antara muka visual WebOPAC pelajar sekolah rendah / Tengku Siti Meriam Tengku Wook.- Details in Pendeta Discovery
+810. Relevance detection and summarizing strategies identification algorithm using linguistic measures / Seyed Asadollah Abdiesfandani.- Details in Pendeta Discovery
+811. Relevance weighting of adjacency terms in key-word-orders / Lim Bee Huang.- Details in Pendeta Discovery
+812. Remote monitoring system / Tan Chin Kee.- Details in Pendeta Discovery
+813. RepCom : A customisable report generator component system using XML-driven, component-based development approach / by Leong Chee Hong.- Details in Pendeta Discovery
+814. Repository design for non-clinical cardiac research based on the principles of least effort / Fariza Hanum Md Nasaruddin.- Details in Pendeta Discovery
+815. ReqDoc : a web-based requirement analysis tool / Ashraf bin Hallaj Rahmatullah.- Details in Pendeta Discovery
+816. Requassis : a software support tool for requirements quality checking / Ahmad Hizami bin Rosehaizad.- Details in Pendeta Discovery
+817. Requirements development using Round Robin Pyramid Brainstorming technique / Zainuddin Yunus.- Details in Pendeta Discovery
+818. Requirements engineering for learning software organisation / Shahibullah Ithnin.- Details in Pendeta Discovery
+819. Requirements management tools / Ameran Jaffar- Details in Pendeta Discovery
+820. Requirements model for student assessment using wiki / ur Aliza binti Mohd Amin- Details in Pendeta Discovery
+821. Requirements modeling for knowledge management system using i* organization modeling technique / Renah d/o Chelliah.- Details in Pendeta Discovery
+822. Requirements prioritization using AHP and K-Means / Rozaida Jaafar.- Details in Pendeta Discovery
+823. Requirements quality assistant using natural language processing techniques / Roslin Binti Abdul Rahman.- Details in Pendeta Discovery
+824. Resource management in distributed computing using CPU utilisation control / Low Choon Keat.- Details in Pendeta Discovery
+825. Retrieval of human facial images based on visual content and semantic description / Ahmed Abdu Ali Alattab.- Details in Pendeta Discovery
+826. Reusability technology in developing expert module for ITS using QPT approach / Rohani Abu Bakar.- Details in Pendeta Discovery
+827. A reverse engineering UML modelling tool / Sarojini Devi a/p Nagappan.- Details in Pendeta Discovery
+828. Roadmapping method for selection and ranking of R&D projects / Azhar Altaf.- Details in Pendeta Discovery
+829. Robust arbitrary text detection system for scene images / Anhar Risnumawan- Details in Pendeta Discovery
+830. A robust watermarking algorithm in digital images using discrete wavelet and artificial neural network / Yahya Khalid Hilal Al-Nabhani.- Details in Pendeta Discovery
+831. The role of academic libraries in facilitating research : perceptions of postgraduate students / Hafiz Aamir Rasul.- Details in Pendeta Discovery
+832. The role of academic medical librarians in Malaysia / Namita Santra.- Details in Pendeta Discovery
+833. The role of the principal in the development of school libraries in Puttalam Education Zone, Sri Lanka / E.M.S. Ekanayake.- Details in Pendeta Discovery
+834. The role of the school resource centre in technology integration in teaching and learning in selected secondary schools / Suzana Binti Ahmad.- Details in Pendeta Discovery
+835. Role of the teacher librarian in supporting teaching and learning process in secondary schools in central province Sri Lanka / Kamala Ratnayake.- Details in Pendeta Discovery
+836. Role-based access contorol in ERP : sales and distrubution system / by Hor Li Peng.- Details in Pendeta Discovery
+837. Role-based access control in kidney dialysis information system / Lim Boon Peng.- Details in Pendeta Discovery
+838. The roles of teacher librarians : a Sri Lankan perspective / A.M. Ranjit Abeyrathna.- Details in Pendeta Discovery
+839. Satellite image classification methods for land usage / Jamshid Tamouk.- Details in Pendeta Discovery
+840. Scaffolding IELTS listening through a CALL-web-based system / Alireza Riasati.- Details in Pendeta Discovery
+841. A scalable and secure position-based routing protocol for ad-hoc networks / Liana K. M. Qabajeh.- Details in Pendeta Discovery
+842. A scalable distributed web syndication crawling software architecture / Ditesh Kumar a/l Shashikant.- Details in Pendeta Discovery
+843. A scalar multiplication in elliptic curve cryptography with binary polynomial operations in galois field / Hero Modares.- Details in Pendeta Discovery
+844. School librarians' readiness for information literacy implementation in secondary schools / Tan Shyh Mee.- Details in Pendeta Discovery
+845. School Management System (ScMS) / by Peterson @ Robinson a/l J. Samuel.- Details in Pendeta Discovery
+846. Search engine system with statistical result analyzer / Lin Guanjing.- Details in Pendeta Discovery
+847. Secure access of patient's medical and clinical data using HL7 protocol / Sara Mohamed Jawad al-Fallogi.- Details in Pendeta Discovery
+848. Secure e-purchase transaction with XML encryption / by Ong Eng Eng.- Details in Pendeta Discovery
+849. Secure hardware resource monitoring, usage optimization and affirmation for database operations in virtualized cloud environment / Tan Chee Heng.- Details in Pendeta Discovery
+850. Secure transmission of electronic medical records in SOAP/XML using hybrid techniques of AES and SHA-1 / Mohamed Shabbir Hamza Abdulnabi.- Details in Pendeta Discovery
+851. Securing cover-file of hidden data using statistical technique and AES Encryption Algorithm / Aos.A.Z.Ansaef.- Details in Pendeta Discovery
+852. Securing mobile communication using public key infrastructure for multimedia messaging services / Mohamud Ahmed Jimale.- Details in Pendeta Discovery
+853. Securing mobile messaging using XML key management specification / Abdalla Abdel Hamed Mohamed.- Details in Pendeta Discovery
+854. Security enhancements for globus-based (Grid) local area cluster using port-knocking / Nor Azylia Bt Ahmad Azam.- Details in Pendeta Discovery
+855. Security in e-commerce : user perspective / Sivaram a/l Superamaniam.- Details in Pendeta Discovery
+856. Sejarah pusat sumber sekolah di semenanjung Malaysia 1800-1995 / Abd. Rahim Abd. Rahman.- Details in Pendeta Discovery
+857. Self-organizing sensorimotor map for mobile robot navigation / Chin Wei Hong- Details in Pendeta Discovery
+858. Self-tuned deep learning model for text relation extraction / Mohamed Lubani.- Details in Pendeta Discovery
+859. Semantic based integration of OLAP and GIS in LBS / Ahmad Haris Abdul Halim.- Details in Pendeta Discovery
+860. Semantic Recommender System for Malaysian Tourism Industry / Tirad Mohammed Aref Almalahmeh.- Details in Pendeta Discovery
+861. Senior executives' involvement in information technology (IT) implementation in the Sabah State Public Sector / Mingu bin Jumaan @ Minggu.- Details in Pendeta Discovery
+862. Sense of Belonging Among Visually Impaired Students in a University Library in Malaysia / Nahid Bayat Bodaghi.- Details in Pendeta Discovery
+863. Sentence extraction for summarization and notetaking / Hamed Khanpour.- Details in Pendeta Discovery
+864. Service discovery in a dynamic office environment / Ooi Soo Teck.- Details in Pendeta Discovery
+865. Service provider recommender system for mobile number portability customers in Malaysia / Rajeswary Santhiran.- Details in Pendeta Discovery
+866. Sigma - a bahasa Malaysia question - answering system / by Siti Salwah Salim- Details in Pendeta Discovery
+867. Significance of interface design criteria for evaluation of children search engine / Kamala a/p Subaramaniam.- Details in Pendeta Discovery
+868. Single journal study of Malaysian Journal of Computer Science : a bibliometric approach / Kevin Wan Utap Anyi.- Details in Pendeta Discovery
+869. Smart card application for prepayment metering system : customers' perspective / Ragavan Arumugam.- Details in Pendeta Discovery
+870. Smart emergency preemption system employing GPS and FPGA / Moraali Sivalingam.- Details in Pendeta Discovery
+871. An sms client for mobile banking / Ardit Llazani.- Details in Pendeta Discovery
+872. SNR-based weighted round robin scheduling mechanism for WiMax networks / Ameneh Tafreshi Motlagh.- Details in Pendeta Discovery
+873. Social media acceptance model for learning among university students / Shiva Pourgholaminejad.- Details in Pendeta Discovery
+874. Social networks influence in e-learning : an assessment on the possible use of Facebook, Twitter and Youtube / Hamza Adamu Fanda.- Details in Pendeta Discovery
+875. Softmatch : a toolkit towards the understanding of users mental model using HTA GOMS and natural language / Raja Jamilah binti Raja Yusof.- Details in Pendeta Discovery
+876. SoftPromt a prototype software project management tool / Han Ettaher Dagez.- Details in Pendeta Discovery
+877. Softrisk : prototype for software risk management / Ayad Ali Kashlaf.- Details in Pendeta Discovery
+878. Software architecture in project management / Looi Kum Yeng.- Details in Pendeta Discovery
+879. Software composition for customer relationship management system using web services / Lai Seng Yew.- Details in Pendeta Discovery
+880. Software installation formal assessment routine (SIFAR) / Galoh Rashidah Haron.- Details in Pendeta Discovery
+881. Software quality assurance : an empirical study on the human, management and technology factors using a quality assurance tool / Ow Siew Hock.- Details in Pendeta Discovery
+882. A software review support tool for errors management and rework effort measurement / Lee Yun Kiew.- Details in Pendeta Discovery
+883. Software risk management tool : the statistical manager / Siah Guat Choon.- Details in Pendeta Discovery
+884. A software support tool for teaching software inspection / Nasim Gazerani.- Details in Pendeta Discovery
+885. A software tool for scheduling risk analysis / Ayham Mohammad Ahmad Alhazaimeh.- Details in Pendeta Discovery
+886. Speech and event oriented conversational interface to support web-based e-training for language study / Mohamad Faizal bin Alias.- Details in Pendeta Discovery
+887. A statistical parser to reduce structural ambiguity in Malay grammar rules / Noor Hafhizah binti Abd Rahim.- Details in Pendeta Discovery
+888. Status katalog di pusat sumber sekolah-sekolah menengah di Daerah Klang, Selangor Darul Ehsan / Rohaya bt Mohamad Dahalan.- Details in Pendeta Discovery
+889. Stereovision 3D reconstruction from multiple photos and a novel quantitative evaluation technique with 3D printer / Khaled Abbas.- Details in Pendeta Discovery
+890. Stock analysis and prediction system / Wong Zi Wei.- Details in Pendeta Discovery
+891. Stock market trend prediction for KLSE composite index based on neural network with technical indicators / Liu Qiang.- Details in Pendeta Discovery
+892. Story based mobile application for requirements engineering process (SMAREP) / Muthuraman Palamalai.- Details in Pendeta Discovery
+893. Storyline-based game technique in learning mathematics for Malaysian secondary school / Norsuriana Azura binti Hussin.- Details in Pendeta Discovery
+894. A strategic approach in developing an interactive multimedia learning system for young learners (learning Malay proverb) / Zatul Saliza Saleh.- Details in Pendeta Discovery
+895. Strategic Information System Planning (SISP) practices in Malaysian banks / Martin Charlotte Ramona.- Details in Pendeta Discovery
+896. Student management system (StuMas) / Kashif Munir.- Details in Pendeta Discovery
+897. A student progress monitoring tool in e-tutorial / Venkata Rao Sumi.- Details in Pendeta Discovery
+898. Studies of scalable vector graphics (SVG) for webmap and cartographic animation / Phua Yeong Tsann.- Details in Pendeta Discovery
+899. Studies on flat CORDIC implementation in field programmable gate arrays (FPGA) / Meera Subramaniam.- Details in Pendeta Discovery
+900. Studies on the integration of rich internet application technology in the learning domain / Angelie Mary Bateman.- Details in Pendeta Discovery
+901. A study and development of an online bus ticketing system / Melisa Kaur a/p Narjan Singh.- Details in Pendeta Discovery
+902. A study and implementation of CRM into an e-commerce model oriented system in a sales and retail environments / Ilangovan a/l Perumal.- Details in Pendeta Discovery
+903. A study of internet usage among schoolteachers in Alor Setar, Kedah / Mohd. Rafae Abdullah.- Details in Pendeta Discovery
+904. A study of journal overlaps, duplicates and costs in the field of computer science held in selected Malaysian University Libraries / Ng Siew Ling.- Details in Pendeta Discovery
+905. A study of leisure reading habits and interests among students in Malaysian higher-learning institutions / Zanaria binti Saupi Udin.- Details in Pendeta Discovery
+906. A study of perceptions and practices on knowledge management of Malaysian small and medium-sized enterprises / Yang Kang Yi.- Details in Pendeta Discovery
+907. A study of postgraduate students' behavioural intention in using electronic information resources / Hajar Safahieh.- Details in Pendeta Discovery
+908. A study on CD-ROM use behaviour of end users at the Sultan Qaboos University in the Sultanate of Oman / Asma Mohammed Al-Haddabi.- Details in Pendeta Discovery
+909. A study on leisure reading habits and interests among secondary school students in Sri Lanka / P.H.A.S Abeyrathna.- Details in Pendeta Discovery
+910. A study on library user education programmes in schools in Sri Lanka  / by A.G. Nimal Jayaweera.- Details in Pendeta Discovery
+911. A study on the impacts and implications of electronic commerce (E-commerce) on manpower requirements in Cyberjaya, Malaysia / Oras Fadel Baker Al Hassani.- Details in Pendeta Discovery
+912. A study on the IT literacy amongst librarians in goverment : supported special libraries in Malaysia / Nor Anisah binti Abdul Malik.- Details in Pendeta Discovery
+913. A study on the usage of multimedia elements in e-commerce web sites in Malaysia / Riaza Perveen bte Mohd. Rais.- Details in Pendeta Discovery
+914. A study on the use of electronic journals among academic staff of Monash University Malaysia / Nor Zaina Zaharah binti Haji Mohamad Ariff.- Details in Pendeta Discovery
+915. Suffix tree clustering method to support systematic literature review planning phase /  Feng Luyi.- Details in Pendeta Discovery
+916. SUIT-method : a tool for finding suitable software development methodology / Mastura Hanafiah.- Details in Pendeta Discovery
+917. Summary sentence decomposition for the identification of summarizing strategies / Norisma Idris.- Details in Pendeta Discovery
+918. Supply, demand and characteristics of library human resources in the Gaza Strip, Palestine / Yaser Eilian Salama Abu Namous.- Details in Pendeta Discovery
+919. A support environment for novice researchers using semantic approach / Maizatul Akmar Ismail.- Details in Pendeta Discovery
+920. A support tool for elicitation of user interface requirements / Azita Soltanian Bojnord.- Details in Pendeta Discovery
+921. A support tool for teaching software requirement prioritization / Soroush Forouzani.- Details in Pendeta Discovery
+922. Supporting collaboration in Jawi class using xo-laptop / Khaled M.A. Ismail.- Details in Pendeta Discovery
+923. Supporting requirements traceability process using natural language processing approach / Siti Asma' Md Hishim- Details in Pendeta Discovery
+924. Supporting research collaboration through Personal Digital Library (PDL) / Navid Aghakhani.- Details in Pendeta Discovery
+925. Supporting the learning of Year 4 mathematics through solution-based quizzes and games / Melissa Eunice Thangaiah.- Details in Pendeta Discovery
+926. Supporting workspace awareness in a persistent chat tool / Sara Vahid.- Details in Pendeta Discovery
+927. A survey of the current status of library automation in Malaysian Chinese secondary schools / Tee Lay Swee.- Details in Pendeta Discovery
+928. Survey on the perception and use of electronic books among IT students / Roesnita Ismail.- Details in Pendeta Discovery
+929. Sustainability model for rescue operation and disaster management system / Azrinsyah Mirza Asfian- Details in Pendeta Discovery
+930. A system for analysing patient history (AZ-PHis) / Kemalatha Krishnasamy.- Details in Pendeta Discovery
+931. A system for diagnosing diabetic patients using rule-based reasoning / Vithyatheri Govindan.- Details in Pendeta Discovery
+932. A system for supervision of post-graduate students using mobile applications / Shamsheer Jauhangeer.- Details in Pendeta Discovery
+933. A system to keep track of medical expertise (Medix) / Kasthuri Subaramaniam.- Details in Pendeta Discovery
+934. A system to network Malaysian women in e-commerce / Lim Pui Voon.- Details in Pendeta Discovery
+935. A systematic approach to improve the sprint planning process in scrum / Hanif Hafeznezami- Details in Pendeta Discovery
+936. Technological status and plans of school resource centers in Kuala Lumpur / Mohd Sanusi Saseetharan bin Abdullah.- Details in Pendeta Discovery
+937. A techno-religious framework to scaffold spiritual intelligence among students / Salmah binti Mokhtar.- Details in Pendeta Discovery
+938. Tele-collaborative visualization for 3D heart model with paraview / Lee Shi Yun.- Details in Pendeta Discovery
+939. Testing the efficiency of file synchronization application using bluetooth technology / Chong Fong Fong.- Details in Pendeta Discovery
+940. Text similarity measure using edit distance model in students' summary sentences / Jaafar Zubairu Maitama- Details in Pendeta Discovery
+941. Text-based anti-spam for Malay language using soft-computing / Thamarai Subramaniam.- Details in Pendeta Discovery
+942. A Text-Based Data Hiding Method to Reduce Dash Attack / Chee Kok Onn.- Details in Pendeta Discovery
+943. Thermal-aware scheduling in green data centers / Muhammad Tayyab Chaudhry.- Details in Pendeta Discovery
+944. Three dimensional virtual reality of the human head / Rajeswari Raju.- Details in Pendeta Discovery
+945. Throughput of TCP/IP over aynchronous transfer mode (ATM) networks / Wong Wing Cho.- Details in Pendeta Discovery
+946. Throughput optimization of unplanned wireless Mesh networks deployment using Partitioning Hierarchical Cluster (PHC) / Ahmed Khalaf Hasan.- Details in Pendeta Discovery
+947. Timetable management system using genetic alghorithm / Adilah binti Abdullah.- Details in Pendeta Discovery
+948. TISPS : a tool for information system project selection / Geetha a/p Baskaran.- Details in Pendeta Discovery
+949. A tool for guiding group requirements elicitation techniques / Mazlinah bt Ghazali.- Details in Pendeta Discovery
+950. Tool for requirements tracing using value-based technique / Umi Kalthum Ithnin.- Details in Pendeta Discovery
+951. A tool for software reuse / Elizabeth @ Key Hia Ling.- Details in Pendeta Discovery
+952. A tool for visualizing students' performance using a timeline technique / Teh Khai Boon.- Details in Pendeta Discovery
+953. A tool supporting role and task models in usage-centered design approach / by Rafidah binti Pakir Mohamad.- Details in Pendeta Discovery
+954. Topology-based reinforcement learning for mobile robot navigation / Muhammad Burhan Hafez- Details in Pendeta Discovery
+955. Towards an immersive online shopping interface using rich media and XML technology / Suthan a/l  Panchadcharam.- Details in Pendeta Discovery
+956. Traffic control simulator using object-oriented approach / Lina Aleny binti Kamaruddin.- Details in Pendeta Discovery
+957. Traffic engineering enhancement to OSPF for IP Qos with diffserv and MPLS / Lim Shiau Hong.- Details in Pendeta Discovery
+958. Traffic scheduling and link sharing mechanisms for controlled load service / Chin Yun Choong.- Details in Pendeta Discovery
+959. Transparent persistence framework for multiple persistence mechanisms / Samir Jusic.- Details in Pendeta Discovery
+960. Transport layer security protocol (TLSP) in Telnet (SecTel System) / Haslina binti Mahmood.- Details in Pendeta Discovery
+961. A trust model for advisor networks in multi-agent environments / Elham Majd- Details in Pendeta Discovery
+962. Twitter sentiment mining : a multi domain analysis / Saeideh Shahheidari.- Details in Pendeta Discovery
+963. Undergraduate students attitudes and perceptions towards e-learning systems at the University of Malaya / Norhayatimah Binti Jamil.- Details in Pendeta Discovery
+964. Unification of data embedding and scrambling in image / Reza Moradi Rad- Details in Pendeta Discovery
+965. University of Malaya's graduates job matching system / AbdulRahim Kuku Hamid Adam.- Details in Pendeta Discovery
+966. Usability testing of internet banking / Mohanamerry Vedamanikam.- Details in Pendeta Discovery
+967. A usable family budgeting system through software engineering approach / Indra Sumantri B. Eddie Mat Senal.- Details in Pendeta Discovery
+968. Usage and users satisfaction : a case study of the Malaysiana Information Center / Shahliza bt. Adanan.- Details in Pendeta Discovery
+969. Usage of electronic information sources and services by teachers at smart schools in Selangor : towards developing digital school resource centers / Mahani Wahab.- Details in Pendeta Discovery
+970. The use of electronic information resources among the users of the Penang public library corporation / Hashimah Binti Haji Mohamed Yusoff.- Details in Pendeta Discovery
+971. The use of electronic information services by new international students at the University of Malaya / Ogbonnaya Chukwudi Ogbonnaya.- Details in Pendeta Discovery
+972. Use of electronic resources by undergraduate students at Perpustakaan Tun Abdul Razak 1 UiTM Shah Alam / Rashikkah Kari @ Khari.- Details in Pendeta Discovery
+973. The use of information classification in face recognition and identification using Eigenfaces / Arpah binti Abu.- Details in Pendeta Discovery
+974. Use of information sources amongst postgraduate students in computer science and software engineering : a citation analysis / Yip Sumin.- Details in Pendeta Discovery
+975. Use of information sources by upper secondary science students in Kuala Lumpur / Wee Siu Hiang.- Details in Pendeta Discovery
+976. The use of information technology among special educational practitioners / Byabazaire Yusuf.- Details in Pendeta Discovery
+977. The use of print and electronic resources among undergraduate students / Goh Wei Haan.- Details in Pendeta Discovery
+978. The use of Technology Acceptance Model (TAM) for development of a simulator for wireless internet over mobile devices (WIMD) / Nirmala Maniam.- Details in Pendeta Discovery
+979. Use of the University of Malaya's Library OPAC by foreign postgraduate students / Ariyapala P.G.- Details in Pendeta Discovery
+980. The use of wavelet in image compression / Teh Kah Hin.- Details in Pendeta Discovery
+981. User centered approach for designing a travel website for the elderly / Sumathi a/p Balakrishnan.- Details in Pendeta Discovery
+982. User evaluation of Chinese studies collection in an academic library / Chia Yip Ping.- Details in Pendeta Discovery
+983. User interface design for collaborative geographical information system (GIS) / Saravanan Nathan Lurudusamy.- Details in Pendeta Discovery
+984. User interface design of search engine for the usage of autistic children / Niesha a/p Gurusamy.- Details in Pendeta Discovery
+985. A user study of the Centre for Malaysian Chinese Studies (CMCS) library / Pong Yoke Tien.- Details in Pendeta Discovery
+986. Using A* algorithm for solving optimal path problem in road network / by Wan Hoong Thai.- Details in Pendeta Discovery
+987. Using ACK reply to improve performance of dynamic source routing protocol for mobile ad hoc networks / Qi Han.- Details in Pendeta Discovery
+988. Using distributed database for learning objects system / Law Foong Li.- Details in Pendeta Discovery
+989. Using genetic algorithms to develop investment strategies for the Malaysian stock market / by Coulibaly Oumar Baba.- Details in Pendeta Discovery
+990. Using learning objects technology in learning styles of higher education students / Tan Hock Chuan.- Details in Pendeta Discovery
+991. Using noise gate software logic algorithm to increase the capacity and robustness of low-bit encoding audio steganography technique / Mohammed A. Ahmed.- Details in Pendeta Discovery
+992. Using participatory design in the development of a web-based comic-style storytelling system for children / Muhammad Helmi Norman.- Details in Pendeta Discovery
+993. Using spatial knowledge representations in presenting a hospital system / Nazlena Mohamad Ali.- Details in Pendeta Discovery
+994. Using Web 2.0 technology to extract, organise, extend and publish web contents in an information assimilation tool / Omid Aghili.- Details in Pendeta Discovery
+995. Using web technology to reduce data problems in student information system for Malaysian secondary schools / Tee Keok Kwee.- Details in Pendeta Discovery
+996. Utilisation of Short Message Services (SMS) for library notification systems / Sameh G. Khanim.- Details in Pendeta Discovery
+997. Utilisation of technology acceptance model (TAM) in determining user perceptions of hospital appointment system / Ali Ibrahim Latif.- Details in Pendeta Discovery
+998. Utilization of cross-terms to enhance the language model for information retrieval / Huda Mohammed Mohammed Barakat.- Details in Pendeta Discovery
+999. Utilization of information technology by educators in problem based learning / Kasturi Dewi a/p Varathan.- Details in Pendeta Discovery
+1000. Utilization of ontologies to improve quality of searching in e-learning systems / Fatemeh Tafreshi Motlagh.- Details in Pendeta Discovery
+1001. A vector quantization approach to isolated-word automatic speech recognition / Mohammad Abd-Alrahman Mahmoud Abushariah.- Details in Pendeta Discovery
+1002. Vehicle routing problem using genetic algrorithm / Shamini Nagaratnam.- Details in Pendeta Discovery
+1003. A verifiable and secure protocol for sealed-bid auction sytems : formal design and application / Mohammad Zahidur Rahman.- Details in Pendeta Discovery
+1004. A VHDL implementation of BIST technique in UART design / by Mohd. Yamani Idna bin Idris.- Details in Pendeta Discovery
+1005. Visual codebook analysis in image understanding / Hoo Wai Lam.- Details in Pendeta Discovery
+1006. A visual composition tool for UML components / Elham Ebrahimi Alavijeh.- Details in Pendeta Discovery
+1007. A visual genetic algorithm tool / Chin Wen Ping.- Details in Pendeta Discovery
+1008. Visualising Al-Quran ontology using concept map approach / Nawal Abdul Razak.- Details in Pendeta Discovery
+1009. Visualization of fluids / by Aini Hazila binti Hamzah.- Details in Pendeta Discovery
+1010. Visualization of fractions using block model / Kaithri a/p Govindasamy- Details in Pendeta Discovery
+1011. Visualization of heart model in a homogeneous cluster environment / Lai Chew Ping.- Details in Pendeta Discovery
+1012. Visualization of requirements based on viewpoint technique for requirements elicitation tool / Rohana Mydin.- Details in Pendeta Discovery
+1013. A visualization tool for requirements specification / Noor Widasuria Abu Bakar.- Details in Pendeta Discovery
+1014. Visualizing requirements negotiation using Zest algorithm in groupware / Mohammed Mohsen A. Alharthi.- Details in Pendeta Discovery
+1015. Visualizing Surah al Baqarah / by Robiah binti Hamzah.- Details in Pendeta Discovery
+1016. Vitalizing web development method using goal analysis / Arezoo Tajerzadeh.- Details in Pendeta Discovery
+1017. Volume modeling of medical images with real-times interaction through Internet / by Thyaganathan Seperamaniam.- Details in Pendeta Discovery
+1018. WAP identification / Lai Siew Cheng.- Details in Pendeta Discovery
+1019. WASIT : a web-based asynchronous software inspection tool / Abdusalam F. Ahmad Nwesri.- Details in Pendeta Discovery
+1020. Web based adaptive learning for Malaysian studies / Parthepan Shanmugam.- Details in Pendeta Discovery
+1021. Web based adaptive quiz system / Maimunah Baharum.- Details in Pendeta Discovery
+1022. Web based system for assessing customer satisfaction among Malaysian small and medium enterprises in the construction industry / Ehsan Khojeh.- Details in Pendeta Discovery
+1023. Web service response time monitoring / Sara Abbaspour Asadollah.- Details in Pendeta Discovery
+1024. Web services for e-procurement system in the context of supply chain management / Yap Khay Seng.- Details in Pendeta Discovery
+1025. Web-based appointment management system using WebML and .Net four-tier architecture / Ming Lu.- Details in Pendeta Discovery
+1026. A web-based business process reengineering case tool for as-is processes / Amutha a/p Subramaniam.- Details in Pendeta Discovery
+1027. A web-based corporate performance measurement system for the airline industry : a balanced scorecard approach / Vimala a/p C. Subramaniam.- Details in Pendeta Discovery
+1028. A web-based course and teaching evaluation system : an open source approach / Marina Mansor.- Details in Pendeta Discovery
+1029. A Web-based electronic filing system using conversion of image file to text file approach / Yousif Nabeil Yousif.- Details in Pendeta Discovery
+1030. A web-based human resource planning simulation model using system dynamics approach / Nur Azlin Atikah binti Husin.- Details in Pendeta Discovery
+1031. A web-based integrated health care management system / Mohammed Abdullah Ali Al-Khawlani.- Details in Pendeta Discovery
+1032. Web-based IT asset management system using an open source development platform / Mohanakanan a/l Kanakasupiah.- Details in Pendeta Discovery
+1033. A web-based laboratory information system (W-LIS) for modern healthcare community / Heamalatha Raja Manickam.- Details in Pendeta Discovery
+1034. A web-based school management system for Palestine / Tariq Khayri A. Haleem Ibido Al Tamimi.- Details in Pendeta Discovery
+1035. A Web-based skill assessment tool for the Libyan software industry / Yousef Omran Belman.- Details in Pendeta Discovery
+1036. A web-based system for managing research supervision / Mahathir bin Mahfordz.- Details in Pendeta Discovery
+1037. A web-based tool to support jigsaw collaborative learning technique / by Low Sai Kit.- Details in Pendeta Discovery
+1038. WebClass : on-line learning via web conferencing / Lim Hoon Wei.- Details in Pendeta Discovery
+1039. Webcon : an ontology engine based conference organiser / Bavani Subramaniam.- Details in Pendeta Discovery
+1040. WebGE : web-based groupware for education / Foong Yew Hong @ Foong Yew Yew.- Details in Pendeta Discovery
+1041. Webuse : website usability evaluation tool / Chiew Thiam Kian.- Details in Pendeta Discovery
+1042. Why-question generation based on causal discourse relations / Yazeed I. M. Sleet.- Details in Pendeta Discovery
+1043. Wireless LAN load redistribution using directed station re-association mechanism / Ho Kar Guen.- Details in Pendeta Discovery
+1044. Workload performance measurement and tuning of high-availability Oracle database / Dzemal Zildzic.- Details in Pendeta Discovery
+1045. WRET : web-based requirements elicitation tool using viewpoint approach / Sa'adah Hassan.- Details in Pendeta Discovery
+1046. An XML-based middleware interface integrating with heterogeneous relational databases / Kum Lee Ching.- Details in Pendeta Discovery
