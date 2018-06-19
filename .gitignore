@@ -137,7 +137,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # Visual Studio Code
-.vscode
+*.vscode
 
 
 # End of https://www.gitignore.io/api/python,virtualenv,windows
