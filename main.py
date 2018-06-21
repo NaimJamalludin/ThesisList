@@ -2,39 +2,83 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 import urllib.request
 import os
-import xlsxwriter
+import csv
 
-counter = 0
-thesisFile = os.path.join(Path.cwd(), 'Data', 'CompScience.txt')
+def getFCSIT():
 
-# Delete file if already exists
-if os.path.exists(thesisFile):
-    os.remove(thesisFile)
+    counter = 0
+    thesisFile = os.path.join(Path.cwd(), 'Data', 'Faculty-of-Computer-Science-and-Information-Technology.csv')
 
-# Loop through 43 pages
-for x in range(1, 43):
+    # Delete file if already exists
+    if os.path.exists(thesisFile):
+        os.remove(thesisFile)
 
-    print('Going through page: ' + str(x))
+    # Loop through 43 pages
+    for x in range(1, 43):
 
-    # URL link
-    url = "http://www.diglib.um.edu.my/umtheses/browse.asp?page=%s&level=all&faculty=W&year=all#sthash.RhHcqyBk.dpbs"%(x)
-    
-    # Get the site content
-    content = urllib.request.urlopen(url).read()
+        print('Going through FCSIT page: ' + str(x))
 
-    # Parse the HTML
-    soup = BeautifulSoup(content, "html.parser")
+        # URL link
+        url = "http://www.diglib.um.edu.my/umtheses/browse.asp?page=%s&level=all&faculty=W&year=all#sthash.RhHcqyBk.dpbs"%(x)
+        
+        # Get the site content
+        content = urllib.request.urlopen(url).read()
 
-    # Find the div
-    mydivs = soup.find_all("div", {"class": "commentbox"})
+        # Parse the HTML
+        soup = BeautifulSoup(content, "html.parser")
 
-    # Loop through the div
-    for div in mydivs:
+        # Find the div
+        mydivs = soup.find_all("div", {"class": "commentbox"})
 
-        # Open and write into the file
-        counter = counter + 1
-        with open(thesisFile, 'a') as f:
-            anchor = div.find("a",attrs={"class":"normlink"})["title"]
-            f.write(str(counter) + ". " + anchor + "\n")            
+        # Loop through the div
+        for div in mydivs:
 
-print('Completed')
+            # Open and write into the file
+            counter = counter + 1
+            with open(thesisFile, 'a') as f:
+                fw = csv.writer(f, delimiter=',',
+                                quotechar='|', quoting=csv.QUOTE_MINIMAL)
+                fw.writerow([counter, div.find("a",attrs={"class":"normlink"})["title"]])      
+
+    print('Completed FCSIT')
+
+def getAIS():
+
+    counter = 0
+    thesisFile = os.path.join(Path.cwd(), 'Data', 'Academy-of-Islamic-Studies.csv')
+
+    # Delete file if already exists
+    if os.path.exists(thesisFile):
+        os.remove(thesisFile)
+
+    # Loop through 85 pages
+    for x in range(1, 85):
+
+        print('Going through AIS page: ' + str(x))
+
+        # URL link
+        url = "http://www.diglib.um.edu.my/umtheses/browse.asp?page=%s&level=all&faculty=I&year=all#sthash.64ZnOUYX.dpbs"%(x)
+        
+        # Get the site content
+        content = urllib.request.urlopen(url).read()
+
+        # Parse the HTML
+        soup = BeautifulSoup(content, "html.parser")
+
+        # Find the div
+        mydivs = soup.find_all("div", {"class": "commentbox"})
+
+        # Loop through the div
+        for div in mydivs:
+
+            # Open and write into the file
+            counter = counter + 1
+            with open(thesisFile, 'a') as f:
+                fw = csv.writer(f, delimiter=',',
+                                quotechar='|', quoting=csv.QUOTE_MINIMAL)
+                fw.writerow([counter, div.find("a",attrs={"class":"normlink"})["title"]])      
+
+    print('Completed AIS')
+
+getAIS()
+getFCSIT()
