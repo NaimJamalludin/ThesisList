@@ -1,10 +1,10 @@
 # Thesis List
 
-Extract University of Malaya Theses and Dissertations from Faculty of Computer Science and Information Technology - [Thesis List](data/CompScience.txt)
+Extract University of Malaya Thesis and Dissertations - [Thesis List](Data)
 
 ## Motivation
 
-To gain some idea for my theses topic
+To gain some idea for my thesis topic
 
 ## Getting Started
 
